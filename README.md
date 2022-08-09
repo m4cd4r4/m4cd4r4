@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m4cd4r4
 
-- 👀 I’m interested in Web3 & Renewable Energy
+- 👀 I’m interested in automation & electronics
 
 - 💞️ I’m looking to collaborate on any open-source project! I need the experience :)
 
