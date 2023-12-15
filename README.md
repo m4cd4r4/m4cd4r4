@@ -2,8 +2,6 @@
 
 - 👀 I’m interested in automation & electronics
 
-- 💞️ I’m looking to collaborate on any open-source project! I need the experience :)
-
 - 📫 How to reach me - m4cd4r4@gmail.com
 
 <!---
