@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @m4cd4r4
 
-- 👀 I’m interested in automation
-
 - 📫 How to reach me - m4cd4r4@gmail.com
 
 <!---
