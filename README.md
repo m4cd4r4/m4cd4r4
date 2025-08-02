@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m4cd4r4
+- 👋 Hi, I’m Macdara
 
 - 📫 How to reach me - m4cd4r4@gmail.com
 
