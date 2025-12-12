@@ -48,7 +48,7 @@ Currently building tools for cloud certification and health tech.
     <td width="50%">
       <h4>📦 Asset Tracker</h4>
       <a href="https://github.com/m4cd4r4/asset-tracker">
-        <img src="assets/asset-tracker.png" alt="Asset Tracker"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/asset-tracker.gif" alt="Asset Tracker"/>
       </a>
       <p>Tool for tracking stock across locations</p>
     </td>
