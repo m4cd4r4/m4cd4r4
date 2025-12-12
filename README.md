@@ -1,6 +1,6 @@
 ## Hi, I'm Macdara
 
-Full-stack developer working with Azure, TypeScript, and Python.
+Full-stack developer.
 Currently building tools for cloud certification and health tech.
 
 [![Email](https://img.shields.io/badge/-m4cd4r4@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:m4cd4r4@gmail.com)
