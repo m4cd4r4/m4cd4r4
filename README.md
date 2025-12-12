@@ -1,8 +1,33 @@
-- 👋 Hi, I’m Macdara
+## Hi, I'm Macdara
 
-- 📫 How to reach me - m4cd4r4@gmail.com
+Full-stack developer working with Azure, TypeScript, and Python.
+Currently building tools for cloud certification and health tech.
 
-<!---
-m4cd4r4/m4cd4r4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Email](https://img.shields.io/badge/-m4cd4r4@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:m4cd4r4@gmail.com)
+
+---
+
+### Tech
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+### Stats
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=m4cd4r4&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4cd4r4&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+---
+
+### Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/m4cd4r4/m4cd4r4/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/m4cd4r4/m4cd4r4/blob/output/github-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/m4cd4r4/m4cd4r4/blob/output/github-snake.svg" />
+</picture>
