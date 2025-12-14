@@ -53,6 +53,18 @@ Currently building tools for cloud certification and health tech.
       <p>Tool for tracking stock across locations</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h4>🚗 Perth Traffic Watch</h4>
+      <a href="https://github.com/m4cd4r4/perth-traffic-watch">
+        <img src="assets/perth-traffic-watch.png" alt="Perth Traffic Watch"/>
+      </a>
+      <p>Real-time traffic monitoring with Edge AI and ESP32-CAM</p>
+    </td>
+    <td width="50%">
+      <!-- Empty cell for future project -->
+    </td>
+  </tr>
 </table>
 
 ---
