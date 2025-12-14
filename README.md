@@ -23,14 +23,14 @@ Currently building tools for cloud certification and health tech.
 <table>
   <tr>
     <td width="50%">
-      <h4>🌌 Cosmos Collective</h4>
+      <h4>Cosmos Collective</h4>
       <a href="https://github.com/m4cd4r4/cosmos-collective-v2">
         <img src="assets/cosmos-collective.png" alt="Cosmos Collective"/>
       </a>
       <p>Multi-spectrum astronomical data exploration with citizen science</p>
     </td>
     <td width="50%">
-      <h4>🧤 Yoovee</h4>
+      <h4>Yoovee</h4>
       <a href="https://github.com/m4cd4r4/yoovee-store">
         <img src="assets/yoovee.png" alt="Yoovee Store"/>
       </a>
@@ -39,14 +39,14 @@ Currently building tools for cloud certification and health tech.
   </tr>
   <tr>
     <td width="50%">
-      <h4>📺 Samhradh</h4>
+      <h4>Samhradh</h4>
       <a href="https://github.com/m4cd4r4/samhradh">
         <img src="assets/samhradh.png" alt="Samhradh"/>
       </a>
       <p>YouTube transcript summarizer with AI</p>
     </td>
     <td width="50%">
-      <h4>📦 Asset Tracker</h4>
+      <h4>Asset Tracker</h4>
       <a href="https://github.com/m4cd4r4/asset-tracker">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/asset-tracker.gif" alt="Asset Tracker"/>
       </a>
@@ -55,7 +55,7 @@ Currently building tools for cloud certification and health tech.
   </tr>
   <tr>
     <td width="50%">
-      <h4>🚗 Perth Traffic Watch</h4>
+      <h4>Perth Traffic Watch</h4>
       <a href="https://github.com/m4cd4r4/perth-traffic-watch">
         <img src="assets/perth-traffic-watch.png" alt="Perth Traffic Watch"/>
       </a>
