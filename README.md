@@ -76,7 +76,3 @@ Currently building tools for cloud certification and health tech.
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/m4cd4r4/m4cd4r4/blob/output/github-snake.svg" />
   <img alt="snake eating my contributions" src="https://github.com/m4cd4r4/m4cd4r4/blob/output/github-snake.svg" />
 </picture>
-
----
-
-<sub>Copyright 2025 Macdara O Murchu. All Rights Reserved.</sub>
