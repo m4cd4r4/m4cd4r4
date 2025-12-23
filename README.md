@@ -69,12 +69,6 @@ Currently building tools for cloud certification and health tech.
 
 ---
 
-### Stats
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=m4cd4r4&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4cd4r4&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=1800"/>
-
----
-
 ### Contributions
 
 <picture>
