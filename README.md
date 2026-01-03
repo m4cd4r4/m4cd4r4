@@ -1,7 +1,6 @@
 ## Hi, I'm Macdara
 
-Full-stack developer.
-Currently building tools for cloud certification and health tech.
+Full-stack developer creating practical tools across cloud, health tech, AI, and IoT.
 
 [![Email](https://img.shields.io/badge/-m4cd4r4@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:m4cd4r4@gmail.com)
 
@@ -62,7 +61,11 @@ Currently building tools for cloud certification and health tech.
       <p>Real-time traffic monitoring with Edge AI and ESP32-CAM</p>
     </td>
     <td width="50%">
-      <!-- Empty cell for future project -->
+      <h4>PortPilot</h4>
+      <a href="https://github.com/m4cd4r4/PortPilot">
+        <img src="assets/portpilot.png" alt="PortPilot"/>
+      </a>
+      <p>Localhost Port Manager for Developers</p>
     </td>
   </tr>
 </table>
