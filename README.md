@@ -23,14 +23,14 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
   <tr>
     <td width="50%">
       <h4>Cosmos Collective</h4>
-      <a href="https://github.com/m4cd4r4/cosmos-collective-v2#readme">
+      <a href="https://github.com/m4cd4r4/cosmos-collective-v2/blob/main/README.md">
         <img src="assets/cosmos-collective.png" alt="Cosmos Collective"/>
       </a>
       <p>Multi-spectrum astronomical data exploration with citizen science</p>
     </td>
     <td width="50%">
       <h4>Yoovee</h4>
-      <a href="https://github.com/m4cd4r4/yoovee-store#readme">
+      <a href="https://github.com/m4cd4r4/yoovee-store/blob/main/README.md">
         <img src="assets/yoovee.png" alt="Yoovee Store"/>
       </a>
       <p>Skin protection fingerless UV gloves</p>
@@ -39,14 +39,14 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
   <tr>
     <td width="50%">
       <h4>Samhradh</h4>
-      <a href="https://github.com/m4cd4r4/samhradh#readme">
+      <a href="https://github.com/m4cd4r4/samhradh/blob/main/README.md">
         <img src="assets/samhradh.png" alt="Samhradh"/>
       </a>
       <p>YouTube transcript summarizer with AI</p>
     </td>
     <td width="50%">
       <h4>Asset Tracker</h4>
-      <a href="https://github.com/m4cd4r4/asset-tracker#readme">
+      <a href="https://github.com/m4cd4r4/asset-tracker/blob/main/README.md">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/asset-tracker.gif" alt="Asset Tracker"/>
       </a>
       <p>Tool for tracking stock across locations</p>
@@ -55,14 +55,14 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
   <tr>
     <td width="50%">
       <h4>Perth Traffic Watch</h4>
-      <a href="https://github.com/m4cd4r4/perth-traffic-watch#readme">
+      <a href="https://github.com/m4cd4r4/perth-traffic-watch/blob/main/README.md">
         <img src="assets/perth-traffic-watch.png" alt="Perth Traffic Watch"/>
       </a>
       <p>Real-time traffic monitoring with Edge AI and ESP32-CAM</p>
     </td>
     <td width="50%">
       <h4>PortPilot</h4>
-      <a href="https://github.com/m4cd4r4/PortPilot#readme">
+      <a href="https://github.com/m4cd4r4/PortPilot/blob/main/README.md">
         <img src="assets/portpilot.png" alt="PortPilot"/>
       </a>
       <p>Localhost Port Manager for Developers</p>
