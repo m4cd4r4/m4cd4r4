@@ -54,11 +54,11 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
   </tr>
   <tr>
     <td width="50%">
-      <h4>Perth Traffic Watch</h4>
+      <h4>SwanFlow</h4>
       <a href="https://github.com/m4cd4r4/perth-traffic-watch/blob/main/README.md">
-        <img src="assets/perth-traffic-watch.png" alt="Perth Traffic Watch"/>
+        <img src="assets/perth-traffic-watch.png" alt="SwanFlow"/>
       </a>
-      <p>Real-time traffic monitoring with Edge AI and ESP32-CAM</p>
+      <p>Real-time Perth traffic monitoring with Edge AI</p>
     </td>
     <td width="50%">
       <h4>PortPilot</h4>
