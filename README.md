@@ -62,7 +62,7 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
     </td>
     <td width="50%">
       <h4>PortPilot</h4>
-      <a href="https://github.com/m4cd4r4/PortPilot/blob/main/README.md">
+      <a href="https://m4cd4r4.github.io/PortPilot/">
         <img src="assets/portpilot.png" alt="PortPilot"/>
       </a>
       <p>Localhost Port Manager for Developers</p>
