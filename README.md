@@ -22,22 +22,6 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
 <table>
   <tr>
     <td width="50%">
-      <h4>Cosmos Collective</h4>
-      <a href="https://github.com/m4cd4r4/cosmos-collective-v2/blob/main/README.md">
-        <img src="assets/cosmos-collective.png" alt="Cosmos Collective"/>
-      </a>
-      <p>Multi-spectrum astronomical data exploration with citizen science</p>
-    </td>
-    <td width="50%">
-      <h4>Yoovee</h4>
-      <a href="https://github.com/m4cd4r4/yoovee-store/blob/master/README.md">
-        <img src="assets/yoovee.png" alt="Yoovee Store"/>
-      </a>
-      <p>Skin protection fingerless UV gloves</p>
-    </td>
-  </tr>
-    <tr>
-    <td width="50%">
       <h4>SwanFlow</h4>
       <a href="https://github.com/m4cd4r4/perth-traffic-watch/blob/main/README.md">
         <img src="assets/perth-traffic-watch.png" alt="SwanFlow"/>
@@ -50,6 +34,22 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
         <img src="assets/portpilot.png" alt="PortPilot"/>
       </a>
       <p>Localhost Port Manager for Developers</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>Cosmos Collective</h4>
+      <a href="https://github.com/m4cd4r4/cosmos-collective-v2/blob/main/README.md">
+        <img src="assets/cosmos-collective.png" alt="Cosmos Collective"/>
+      </a>
+      <p>Multi-spectrum astronomical data exploration with citizen science</p>
+    </td>
+    <td width="50%">
+      <h4>Yoovee</h4>
+      <a href="https://github.com/m4cd4r4/yoovee-store/blob/master/README.md">
+        <img src="assets/yoovee.png" alt="Yoovee Store"/>
+      </a>
+      <p>Skin protection fingerless UV gloves</p>
     </td>
   </tr>
   <!-- <tr> -->
