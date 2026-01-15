@@ -1,6 +1,6 @@
 ## Hi, I'm Macdara
 
-Full-stack developer creating practical tools across cloud, health tech, AI, and IoT.
+Full-Stack Developer | AI Integration | Available for Startups & Contract Work | Perth/Remote
 
 [![Email](https://img.shields.io/badge/-m4cd4r4@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:m4cd4r4@gmail.com)
 
