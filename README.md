@@ -28,7 +28,7 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
     <td width="50%">
       <h4>SwanFlow</h4>
       <a href="https://github.com/m4cd4r4/SwanFlow/blob/master/README.md">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/SwanFlow/master/assets/screenshot.png" alt="SwanFlow"/>
+        <img src="assets/swanflow.png" alt="SwanFlow"/>
       </a>
       <p>Real-time Perth traffic monitoring with Edge AI</p>
     </td>
