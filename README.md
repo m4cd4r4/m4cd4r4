@@ -37,13 +37,13 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <!-- <td width="50%">
       <h4>Samhradh</h4>
       <a href="https://github.com/m4cd4r4/samhradh/blob/main/README.md">
         <img src="assets/samhradh.png" alt="Samhradh"/>
       </a>
       <p>YouTube transcript summarizer with AI</p>
-    </td>
+    </td> -->
     <td width="50%">
       <h4>Asset Tracker</h4>
       <a href="https://github.com/m4cd4r4/asset-tracker/blob/main/README.md">
