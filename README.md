@@ -36,23 +36,7 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       <p>Skin protection fingerless UV gloves</p>
     </td>
   </tr>
-  <tr>
-    <!-- <td width="50%">
-      <h4>Samhradh</h4>
-      <a href="https://github.com/m4cd4r4/samhradh/blob/main/README.md">
-        <img src="assets/samhradh.png" alt="Samhradh"/>
-      </a>
-      <p>YouTube transcript summarizer with AI</p>
-    </td> -->
-    <td width="50%">
-      <h4>Asset Tracker</h4>
-      <a href="https://github.com/m4cd4r4/asset-tracker/blob/main/README.md">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/asset-tracker.gif" alt="Asset Tracker"/>
-      </a>
-      <p>Tool for tracking stock across locations</p>
-    </td>
-  </tr>
-  <tr>
+    <tr>
     <td width="50%">
       <h4>SwanFlow</h4>
       <a href="https://github.com/m4cd4r4/perth-traffic-watch/blob/main/README.md">
@@ -68,6 +52,23 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       <p>Localhost Port Manager for Developers</p>
     </td>
   </tr>
+  <!-- <tr> -->
+    <!-- <td width="50%">
+      <h4>Samhradh</h4>
+      <a href="https://github.com/m4cd4r4/samhradh/blob/main/README.md">
+        <img src="assets/samhradh.png" alt="Samhradh"/>
+      </a>
+      <p>YouTube transcript summarizer with AI</p>
+    </td> -->
+    <td width="50%">
+      <h4>Asset Tracker</h4>
+      <a href="https://github.com/m4cd4r4/asset-tracker/blob/main/README.md">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/asset-tracker.gif" alt="Asset Tracker"/>
+      </a>
+      <p>Tool for tracking stock across locations</p>
+    </td>
+  </tr>
+
 </table>
 
 ---
