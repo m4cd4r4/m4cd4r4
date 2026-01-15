@@ -24,13 +24,13 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
     <td width="50%">
       <h4>SwanFlow</h4>
       <a href="https://github.com/m4cd4r4/SwanFlow/blob/master/README.md">
-        <img src="assets/swanflow.png" alt="SwanFlow"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/SwanFlow/master/assets/screenshot.png" alt="SwanFlow"/>
       </a>
       <p>Real-time Perth traffic monitoring with Edge AI</p>
     </td>
     <td width="50%">
       <h4>PortPilot</h4>
-      <a href="https://github.com/m4cd4r4/PortPilot/blob/main/README.md">
+      <a href="https://m4cd4r4.github.io/PortPilot/">
         <img src="assets/portpilot.png" alt="PortPilot"/>
       </a>
       <p>Localhost Port Manager for Developers</p>
@@ -59,13 +59,6 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/asset-tracker.gif" alt="Asset Tracker"/>
       </a>
       <p>Tool for tracking stock across locations</p>
-    </td>
-    <td width="50%">
-      <h4>Samhradh</h4>
-      <a href="https://github.com/m4cd4r4/samhradh/blob/main/README.md">
-        <img src="assets/samhradh.png" alt="Samhradh"/>
-      </a>
-      <p>YouTube transcript summarizer with AI</p>
     </td>
   </tr>
 </table>
