@@ -53,7 +53,7 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       <a href="https://github.com/m4cd4r4/yoovee-store/blob/master/README.md">
         <img src="assets/yoovee.png" alt="Yoovee Store"/>
       </a>
-      <p>Skin protection fingerless UV gloves</p>
+      <p>Ecommerce Template</p>
     </td>
   </tr>
   <tr>
