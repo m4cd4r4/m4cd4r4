@@ -66,8 +66,8 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
     </td>
     <td width="50%">
       <h4>BrightClause</h4>
-      <a href="https://github.com/m4cd4r4/BrightClause">
-        <img src="https://image.thum.io/get/width/600/https://github.com/m4cd4r4/BrightClause" alt="BrightClause"/>
+      <a href="https://brightclause.com">
+        <img src="https://image.thum.io/get/width/600/https://brightclause.com" alt="BrightClause"/>
       </a>
       <p>AI contract analysis — plain English summaries of legal documents</p>
     </td>
