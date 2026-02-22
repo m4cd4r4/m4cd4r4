@@ -60,7 +60,7 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
     <td width="50%">
       <h4>BloodClarity</h4>
       <a href="https://bloodclarity.com">
-        <img src="https://image.thum.io/get/width/600/https://bloodclarity.com" alt="BloodClarity"/>
+        <img src="assets/bloodclarity.png" alt="BloodClarity"/>
       </a>
       <p>AI-powered blood test analysis — plain English results with 99% accuracy</p>
     </td>
