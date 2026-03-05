@@ -48,13 +48,6 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       </a>
       <p>Multi-spectrum astronomical data exploration with citizen science</p>
     </td>
-    <td width="50%">
-      <h4>Yoovee</h4>
-      <a href="https://yoovee.com.au">
-        <img src="https://image.thum.io/get/width/600/https://yoovee.com.au" alt="Yoovee"/>
-      </a>
-      <p>Ecommerce Template</p>
-    </td>
   </tr>
   <tr>
     <td width="50%">
