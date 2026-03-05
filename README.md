@@ -46,7 +46,7 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       <a href="https://cosmos-collective.com.au">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cosmos-collective.png" alt="Cosmos Collective"/>
       </a>
-      <p>Multi-spectrum astronomical data exploration with citizen science</p>
+      <p>Multi-spectrum astronomical data exploration</p>
     </td>
   </tr>
   <tr>
