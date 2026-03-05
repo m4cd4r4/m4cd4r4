@@ -44,7 +44,7 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
     <td width="50%">
       <h4>Cosmos Collective</h4>
       <a href="https://cosmos-collective.com.au">
-        <img src="https://image.thum.io/get/width/600/https://cosmos-collective.com.au" alt="Cosmos Collective"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cosmos-collective.png" alt="Cosmos Collective"/>
       </a>
       <p>Multi-spectrum astronomical data exploration with citizen science</p>
     </td>
