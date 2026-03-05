@@ -26,11 +26,11 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
 <table>
   <tr>
     <td width="50%">
-      <h4>SwanFlow</h4>
-      <a href="https://github.com/m4cd4r4/SwanFlow/blob/master/README.md">
-        <img src="assets/swanflow.png" alt="SwanFlow"/>
+      <h4>Trutina</h4>
+      <a href="https://trutina.vercel.app">
+        <img src="https://image.thum.io/get/width/600/https://trutina.vercel.app" alt="Trutina"/>
       </a>
-      <p>Real-time Perth traffic monitoring with Edge AI</p>
+      <p>AI mortgage fraud detection — identifies synthetic payslips and bank statements</p>
     </td>
     <td width="50%">
       <h4>PortPilot</h4>
