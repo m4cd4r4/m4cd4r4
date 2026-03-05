@@ -35,7 +35,7 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
     <td width="50%">
       <h4>PortPilot</h4>
       <a href="https://m4cd4r4.github.io/PortPilot/">
-        <img src="assets/portpilot.png" alt="PortPilot"/>
+        <img src="https://image.thum.io/get/width/600/https://m4cd4r4.github.io/PortPilot/" alt="PortPilot"/>
       </a>
       <p>Localhost Port Manager for Developers</p>
     </td>
@@ -43,15 +43,15 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
   <tr>
     <td width="50%">
       <h4>Cosmos Collective</h4>
-      <a href="https://github.com/m4cd4r4/cosmos-collective-v2/blob/main/README.md">
-        <img src="assets/cosmos-collective.png" alt="Cosmos Collective"/>
+      <a href="https://cosmos-collective.com.au">
+        <img src="https://image.thum.io/get/width/600/https://cosmos-collective.com.au" alt="Cosmos Collective"/>
       </a>
       <p>Multi-spectrum astronomical data exploration with citizen science</p>
     </td>
     <td width="50%">
       <h4>Yoovee</h4>
-      <a href="https://github.com/m4cd4r4/yoovee-store/blob/master/README.md">
-        <img src="assets/yoovee.png" alt="Yoovee Store"/>
+      <a href="https://yoovee.com.au">
+        <img src="https://image.thum.io/get/width/600/https://yoovee.com.au" alt="Yoovee"/>
       </a>
       <p>Ecommerce Template</p>
     </td>
@@ -60,7 +60,7 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
     <td width="50%">
       <h4>BloodClarity</h4>
       <a href="https://bloodclarity.com">
-        <img src="assets/bloodclarity.png" alt="BloodClarity"/>
+        <img src="https://image.thum.io/get/width/600/https://bloodclarity.com" alt="BloodClarity"/>
       </a>
       <p>AI-powered blood test analysis — plain English results with 99% accuracy</p>
     </td>
