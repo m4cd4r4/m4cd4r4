@@ -44,7 +44,7 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
     <td width="50%">
       <h4>Cosmos Collective</h4>
       <a href="https://cosmos-collective.com.au">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cosmos-collective.png" alt="Cosmos Collective"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cosmos-collective.gif" alt="Cosmos Collective"/>
       </a>
       <p>Multi-spectrum astronomical data exploration</p>
     </td>
@@ -60,14 +60,14 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
     <td width="50%">
       <h4>BloodClarity</h4>
       <a href="https://bloodclarity.com">
-        <img src="https://image.thum.io/get/width/600/https://bloodclarity.com" alt="BloodClarity"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/bloodclarity.gif" alt="BloodClarity"/>
       </a>
       <p>AI-powered blood test analysis — plain English results with 99% accuracy</p>
     </td>
     <td width="50%">
       <h4>BrightClause</h4>
       <a href="https://brightclause.com">
-        <img src="https://image.thum.io/get/width/600/https://brightclause.com" alt="BrightClause"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/brightclause.gif" alt="BrightClause"/>
       </a>
       <p>AI contract analysis — plain English summaries of legal documents</p>
     </td>
@@ -75,10 +75,10 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
   <tr>
     <td width="50%">
       <h4>Asset Tracker</h4>
-      <a href="https://github.com/m4cd4r4/asset-tracker/blob/main/docs/README.md">
+      <a href="https://web-app-sandy-three.vercel.app/app">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/asset-tracker.gif" alt="Asset Tracker"/>
       </a>
-      <p>Tool for tracking stock across locations</p>
+      <p>Real-time inventory management across multiple locations</p>
     </td>
   </tr>
 </table>
