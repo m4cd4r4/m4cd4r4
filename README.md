@@ -75,7 +75,7 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
   <tr>
     <td width="50%">
       <h4>Asset Tracker</h4>
-      <a href="https://web-app-sandy-three.vercel.app/app">
+      <a href="https://asset-tracker-m4cd4r4s-projects.vercel.app/app">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/asset-tracker.gif" alt="Asset Tracker"/>
       </a>
       <p>Real-time inventory management across multiple locations</p>
