@@ -48,6 +48,13 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       </a>
       <p>Multi-spectrum astronomical data exploration</p>
     </td>
+    <td width="50%">
+      <h4>FreeDoom HD</h4>
+      <a href="https://github.com/m4cd4r4/freedoom-hd">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/freedoom-hd/master/docs/banner.png" alt="FreeDoom HD"/>
+      </a>
+      <p>AI-upscaled 4× texture pack for Freedoom — 2,553 assets enhanced with Real-ESRGAN</p>
+    </td>
   </tr>
   <tr>
     <td width="50%">
