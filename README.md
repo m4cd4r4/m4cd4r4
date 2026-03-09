@@ -96,6 +96,13 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       </a>
       <p>Real-time inventory management across multiple locations</p>
     </td>
+    <td width="50%">
+      <h4>Foclóir</h4>
+      <a href="https://irish-dictionary-app.vercel.app/">
+        <img src="assets/foclair.png" alt="Foclóir Irish-English Dictionary"/>
+      </a>
+      <p>Irish-English dictionary with 27,755 entries and fada-insensitive search</p>
+    </td>
   </tr>
 </table>
 
