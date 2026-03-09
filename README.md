@@ -30,14 +30,14 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       <a href="https://trutina.vercel.app">
         <img src="https://image.thum.io/get/width/600/https://trutina.vercel.app" alt="Trutina"/>
       </a>
-      <p>AI mortgage fraud detection — identifies synthetic payslips and bank statements</p>
+      <p>AI mortgage fraud detection - identifies synthetic payslips and bank statements</p>
     </td>
     <td width="50%">
       <h4>Erdős–Straus Gateway</h4>
       <a href="https://github.com/m4cd4r4/erdos-straus-gateway">
         <img src="https://raw.githubusercontent.com/m4cd4r4/erdos-straus-gateway/main/banner.png" alt="Erdős–Straus Gateway"/>
       </a>
-      <p>Finite algebraic covering system for the Erdős–Straus conjecture — 24 identities cover all primes to 10⁹</p>
+      <p>Finite algebraic covering system for the Erdős–Straus conjecture - 24 identities cover all primes to 10⁹</p>
     </td>
   </tr>
   <tr>
@@ -62,7 +62,7 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       <a href="https://github.com/m4cd4r4/freedoom-hd">
         <img src="https://raw.githubusercontent.com/m4cd4r4/freedoom-hd/master/docs/banner.png" alt="FreeDoom HD"/>
       </a>
-      <p>AI-upscaled 4× texture pack for Freedoom — 2,553 assets enhanced with Real-ESRGAN</p>
+      <p>AI-upscaled 4× texture pack for Freedoom - 2,553 assets enhanced with Real-ESRGAN</p>
     </td>
   </tr>
   <tr>
@@ -71,14 +71,14 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       <a href="https://bloodclarity.com">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/bloodclarity.gif" alt="BloodClarity"/>
       </a>
-      <p>AI-powered blood test analysis — plain English results with 99% accuracy</p>
+      <p>AI-powered blood test analysis - plain English results with 99% accuracy</p>
     </td>
     <td width="50%">
       <h4>BrightClause</h4>
       <a href="https://brightclause.com">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/brightclause.gif" alt="BrightClause"/>
       </a>
-      <p>AI contract analysis — plain English summaries of legal documents</p>
+      <p>AI contract analysis - plain English summaries of legal documents</p>
     </td>
   </tr>
   <tr>
