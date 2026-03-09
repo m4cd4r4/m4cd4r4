@@ -33,14 +33,21 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       <p>AI mortgage fraud detection — identifies synthetic payslips and bank statements</p>
     </td>
     <td width="50%">
+      <h4>Erdős–Straus Gateway</h4>
+      <a href="https://github.com/m4cd4r4/erdos-straus-gateway">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/erdos-straus-gateway/main/banner.png" alt="Erdős–Straus Gateway"/>
+      </a>
+      <p>Finite algebraic covering system for the Erdős–Straus conjecture — 24 identities cover all primes to 10⁹</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h4>PortPilot</h4>
       <a href="https://m4cd4r4.github.io/PortPilot/">
         <img src="https://image.thum.io/get/width/600/https://m4cd4r4.github.io/PortPilot/" alt="PortPilot"/>
       </a>
       <p>Localhost Port Manager for Developers</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h4>Cosmos Collective</h4>
       <a href="https://cosmos-collective.com.au">
@@ -48,6 +55,8 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       </a>
       <p>Multi-spectrum astronomical data exploration</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h4>FreeDoom HD</h4>
       <a href="https://github.com/m4cd4r4/freedoom-hd">
