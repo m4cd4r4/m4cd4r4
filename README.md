@@ -60,7 +60,7 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
     <td width="50%">
       <h4>Green H₂ Catalyst Research</h4>
       <a href="https://green-h2-catalyst.streamlit.app/">
-        <img src="https://image.thum.io/get/width/600/https://green-h2-catalyst.streamlit.app/" alt="Green H2 Catalyst Research"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/green-h2-catalyst-research/master/docs/screenshots/gate-status-board.png" alt="Green H2 Catalyst Research"/>
       </a>
       <p>ML screening pipeline for earth-abundant acid OER catalysts — iridium-free green hydrogen</p>
     </td>
