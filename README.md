@@ -55,6 +55,7 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       </a>
       <p>Finite algebraic covering system for the Erdős–Straus conjecture - 24 identities cover all primes to 10⁹</p>
     </td>
+  </tr>
   <tr>
     <td width="50%">
       <h4>PortPilot</h4>
