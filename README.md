@@ -42,6 +42,13 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
   </tr>
   <tr>
     <td width="50%">
+      <h4>RecStitch</h4>
+      <a href="https://github.com/m4cd4r4/recstitch">
+        <img src="https://image.thum.io/get/width/600/https://agent-trace-sage.vercel.app" alt="RecStitch"/>
+      </a>
+      <p>Record browser actions and export resilient automation scripts for Playwright, Stagehand, and Browser Use</p>
+    </td>
+    <td width="50%">
       <h4>Erdős–Straus Gateway</h4>
       <a href="https://github.com/m4cd4r4/erdos-straus-gateway">
         <img src="https://raw.githubusercontent.com/m4cd4r4/erdos-straus-gateway/main/banner.png" alt="Erdős–Straus Gateway"/>
