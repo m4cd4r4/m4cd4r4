@@ -26,12 +26,21 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
 <table>
   <tr>
     <td width="50%">
+      <h4>mcpwrap</h4>
+      <a href="https://github.com/m4cd4r4/mcpwrap">
+        <img src="https://image.thum.io/get/width/600/https://mcp-forge-black.vercel.app" alt="mcpwrap"/>
+      </a>
+      <p>Turn any REST API into an MCP server in 10 seconds - runtime OpenAPI wrapper, zero codegen</p>
+    </td>
+    <td width="50%">
       <h4>Trutina</h4>
       <a href="https://trutina.vercel.app">
         <img src="https://image.thum.io/get/width/600/https://trutina.vercel.app" alt="Trutina"/>
       </a>
       <p>AI mortgage fraud detection - identifies synthetic payslips and bank statements</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h4>Erdős–Straus Gateway</h4>
       <a href="https://github.com/m4cd4r4/erdos-straus-gateway">
@@ -39,7 +48,6 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       </a>
       <p>Finite algebraic covering system for the Erdős–Straus conjecture - 24 identities cover all primes to 10⁹</p>
     </td>
-  </tr>
   <tr>
     <td width="50%">
       <h4>PortPilot</h4>
