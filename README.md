@@ -66,10 +66,10 @@ Full-stack developer building practical tools across AI, health tech, scientific
   <tr>
     <td width="50%">
       <h4>Trutina</h4>
-      <a href="https://trutina.vercel.app">
-        <img src="https://image.thum.io/get/width/600/https://trutina.vercel.app" alt="Trutina"/>
+      <a href="https://trutina.com.au">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/trutina.gif" alt="Trutina"/>
       </a>
-      <p>AI mortgage fraud detection - identifies synthetic payslips and bank statements</p>
+      <p>AI mortgage fraud detection - six-layer forensic analysis catches forged documents in under 60 seconds</p>
     </td>
     <td width="50%">
       <h4>RecStitch</h4>
