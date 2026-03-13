@@ -25,26 +25,22 @@ Full-stack developer building practical tools across AI, health tech, scientific
 
 ### Open Source Contributions
 
-Contributor to scientific Python libraries and open-source health platforms.
-
 **Merged**
 
-| Project | PR | Description |
-|---------|----|-------------|
-| [astropy/astroquery](https://github.com/astropy/astroquery) | [#3551](https://github.com/astropy/astroquery/pull/3551) | Add `raise_for_status()` to NED query methods |
-| [ifmeorg/ifme](https://github.com/ifmeorg/ifme) | [#2402](https://github.com/ifmeorg/ifme/pull/2402) | Fix Docker CRLF issues via `.gitattributes` |
+[![astroquery](https://img.shields.io/badge/astropy%2Fastroquery-%233551-2ea44f?style=flat&logo=github)](https://github.com/astropy/astroquery/pull/3551)
+[![auto-archiver](https://img.shields.io/badge/bellingcat%2Fauto--archiver-%23377-2ea44f?style=flat&logo=github)](https://github.com/bellingcat/auto-archiver/pull/377)
+[![ifme](https://img.shields.io/badge/ifmeorg%2Fifme-%232402-2ea44f?style=flat&logo=github)](https://github.com/ifmeorg/ifme/pull/2402)
+[![buildspace](https://img.shields.io/badge/buildspace%2Fprojects-%23286-2ea44f?style=flat&logo=github)](https://github.com/buildspace/buildspace-projects/pull/286)
 
 **Under review**
 
-| Project | PR | Description |
-|---------|----|-------------|
-| [lightkurve/lightkurve](https://github.com/lightkurve/lightkurve) | [#1543](https://github.com/lightkurve/lightkurve/pull/1543) | Fix `normalize()` crash with masked flux arrays |
-| [astropy/astropy](https://github.com/astropy/astropy) | [#19389](https://github.com/astropy/astropy/pull/19389) | Suppress redundant log when unit matches FITS BUNIT |
-| [sunpy/sunpy](https://github.com/sunpy/sunpy) | [#8537](https://github.com/sunpy/sunpy/pull/8537) | Relocate `solar_angular_radius` to `sunpy.coordinates` |
-| [astropy/astroplan](https://github.com/astropy/astroplan) | [#636](https://github.com/astropy/astroplan/pull/636) | Replace deprecated `plot_date` with `plot` |
-| [spacepy/spacepy](https://github.com/spacepy/spacepy) | [#832](https://github.com/spacepy/spacepy/pull/832) | Fix `parse_filename_time` crash on `_north` filenames |
-| [LibreHealthIO/lh-ehr](https://github.com/LibreHealthIO/lh-ehr) | [#1698](https://github.com/LibreHealthIO/lh-ehr/pull/1698) | Fix path traversal and XSS vulnerabilities |
-| [ifmeorg/ifme](https://github.com/ifmeorg/ifme) | [#2403](https://github.com/ifmeorg/ifme/pull/2403) | Reduce JS payload by ~300KB (15% reduction) |
+[![lightkurve](https://img.shields.io/badge/lightkurve-%231543-dfb317?style=flat&logo=github)](https://github.com/lightkurve/lightkurve/pull/1543)
+[![astropy](https://img.shields.io/badge/astropy-%2319389-dfb317?style=flat&logo=github)](https://github.com/astropy/astropy/pull/19389)
+[![sunpy](https://img.shields.io/badge/sunpy-%238537-dfb317?style=flat&logo=github)](https://github.com/sunpy/sunpy/pull/8537)
+[![astroplan](https://img.shields.io/badge/astroplan-%23636-dfb317?style=flat&logo=github)](https://github.com/astropy/astroplan/pull/636)
+[![spacepy](https://img.shields.io/badge/spacepy-%23832-dfb317?style=flat&logo=github)](https://github.com/spacepy/spacepy/pull/832)
+[![lh-ehr](https://img.shields.io/badge/LibreHealth%2Flh--ehr-%231698-dfb317?style=flat&logo=github)](https://github.com/LibreHealthIO/lh-ehr/pull/1698)
+[![ifme](https://img.shields.io/badge/ifmeorg%2Fifme-%232403-dfb317?style=flat&logo=github)](https://github.com/ifmeorg/ifme/pull/2403)
 
 ---
 
