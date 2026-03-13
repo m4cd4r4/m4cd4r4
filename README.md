@@ -26,12 +26,21 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
 <table>
   <tr>
     <td width="50%">
+      <h4>Home Scout</h4>
+      <a href="https://github.com/m4cd4r4/home-scout">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/home-scout/master/media/scout-hero.png" alt="Home Scout"/>
+      </a>
+      <p>Privacy-first home companion robot on Arduino VENTUNO Q - voice, vision, navigation, object memory, face recognition. Zero internet.</p>
+    </td>
+    <td width="50%">
       <h4>mcpwrap</h4>
       <a href="https://github.com/m4cd4r4/mcpwrap">
         <img src="https://image.thum.io/get/width/600/https://mcp-forge-black.vercel.app" alt="mcpwrap"/>
       </a>
       <p>Turn any REST API into an MCP server in 10 seconds - runtime OpenAPI wrapper, zero codegen</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h4>Trutina</h4>
       <a href="https://trutina.vercel.app">
@@ -39,8 +48,6 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       </a>
       <p>AI mortgage fraud detection - identifies synthetic payslips and bank statements</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h4>RecStitch</h4>
       <a href="https://github.com/m4cd4r4/recstitch">
@@ -48,6 +55,8 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       </a>
       <p>Record browser actions and export resilient automation scripts for Playwright, Stagehand, and Browser Use</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h4>Erdős–Straus Gateway</h4>
       <a href="https://github.com/m4cd4r4/erdos-straus-gateway">
@@ -55,8 +64,6 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       </a>
       <p>Finite algebraic covering system for the Erdős–Straus conjecture - 24 identities cover all primes to 10⁹</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h4>PortPilot</h4>
       <a href="https://m4cd4r4.github.io/PortPilot/">
@@ -64,6 +71,8 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       </a>
       <p>Localhost Port Manager for Developers</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h4>Cosmos Collective</h4>
       <a href="https://cosmos-collective.com.au">
@@ -71,8 +80,6 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       </a>
       <p>Multi-spectrum astronomical data exploration</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h4>Green H₂ Catalyst Research</h4>
       <a href="https://green-h2-catalyst.streamlit.app/">
@@ -80,6 +87,8 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       </a>
       <p>ML screening pipeline for earth-abundant acid OER catalysts — iridium-free green hydrogen</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h4>FreeDoom HD</h4>
       <a href="https://github.com/m4cd4r4/freedoom-hd">
@@ -87,8 +96,6 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       </a>
       <p>AI-upscaled 4× texture pack for Freedoom - 2,553 assets enhanced with Real-ESRGAN</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h4>BloodClarity</h4>
       <a href="https://bloodclarity.com">
@@ -96,6 +103,8 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       </a>
       <p>AI-powered blood test analysis - plain English results with 99% accuracy</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h4>BrightClause</h4>
       <a href="https://brightclause.com">
@@ -103,8 +112,6 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       </a>
       <p>AI contract analysis - plain English summaries of legal documents</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h4>Asset Tracker</h4>
       <a href="https://asset-tracker-m4cd4r4s-projects.vercel.app/app">
@@ -112,12 +119,16 @@ Full-stack developer creating practical tools across cloud, health tech, AI, and
       </a>
       <p>Real-time inventory management across multiple locations</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h4>Foclóir</h4>
       <a href="https://irish-dictionary-app.vercel.app/">
         <img src="assets/foclair.png" alt="Foclóir Irish-English Dictionary"/>
       </a>
       <p>Irish-English dictionary with 27,755 entries and fada-insensitive search</p>
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>
