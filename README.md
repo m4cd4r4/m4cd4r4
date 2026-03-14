@@ -69,7 +69,7 @@ Full-stack developer building practical tools across AI, health tech, scientific
       <a href="https://trutina.com.au">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/trutina.gif" alt="Trutina"/>
       </a>
-      <p>AI mortgage fraud detection - six-layer forensic analysis catches forged documents in under 60 seconds</p>
+      <p>Six-layer forensic pipeline detects forged mortgage documents in under 60 seconds</p>
     </td>
     <td width="50%">
       <h4>RecStitch</h4>
@@ -92,7 +92,7 @@ Full-stack developer building practical tools across AI, health tech, scientific
       <a href="https://green-h2-catalyst.streamlit.app/">
         <img src="https://raw.githubusercontent.com/m4cd4r4/green-h2-catalyst-research/master/docs/screenshots/gate-status-board.png" alt="Green H2 Catalyst Research"/>
       </a>
-      <p>ML screening pipeline for earth-abundant acid OER catalysts - iridium-free green hydrogen</p>
+      <p>Computational screening pipeline for earth-abundant OER catalysts - iridium-free green hydrogen production</p>
     </td>
   </tr>
   <tr>
@@ -101,14 +101,14 @@ Full-stack developer building practical tools across AI, health tech, scientific
       <a href="https://bloodclarity.com">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/bloodclarity.gif" alt="BloodClarity"/>
       </a>
-      <p>AI-powered blood test analysis - plain English results with 99% accuracy</p>
+      <p>Blood test interpretation platform - clinical-grade results explained in plain English</p>
     </td>
     <td width="50%">
       <h4>BrightClause</h4>
       <a href="https://brightclause.com">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/brightclause.gif" alt="BrightClause"/>
       </a>
-      <p>AI contract analysis - plain English summaries of legal documents</p>
+      <p>Contract analysis platform - obligation extraction, risk scoring, and plain English summaries</p>
     </td>
   </tr>
   <tr>
@@ -117,14 +117,14 @@ Full-stack developer building practical tools across AI, health tech, scientific
       <a href="https://swanflow.com.au">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/swanflow.png" alt="SwanFlow"/>
       </a>
-      <p>Edge AI traffic monitoring for Perth - ESP32-CAM, FOMO object detection, interactive map</p>
+      <p>Real-time traffic monitoring for Perth - ESP32-CAM hardware with FOMO object detection and interactive map</p>
     </td>
     <td width="50%">
       <h4>Cosmos Collective</h4>
       <a href="https://cosmos-collective.com.au">
         <img src="https://raw.githubusercontent.com/m4cd4r4/cosmos-collective-v2/main/public/images/solar-system-demo-optimized.gif" alt="Cosmos Collective"/>
       </a>
-      <p>Multi-spectrum astronomical data exploration with citizen science features</p>
+      <p>Explore the universe in the browser - 3D solar system, JWST multi-wavelength imagery, and 2,600+ Kepler exoplanet catalogue</p>
     </td>
   </tr>
   <tr>
@@ -149,7 +149,7 @@ Full-stack developer building practical tools across AI, health tech, scientific
       <a href="https://github.com/m4cd4r4/freedoom-hd">
         <img src="https://raw.githubusercontent.com/m4cd4r4/freedoom-hd/master/docs/banner.png" alt="FreeDoom HD"/>
       </a>
-      <p>AI-upscaled 4x texture pack for Freedoom - 2,553 assets enhanced with Real-ESRGAN</p>
+      <p>4x upscaled texture pack for Freedoom - 2,553 assets enhanced with Real-ESRGAN</p>
     </td>
     <td width="50%">
       <h4>PortPilot</h4>
