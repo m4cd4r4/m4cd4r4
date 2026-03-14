@@ -85,7 +85,7 @@ Full-stack developer building practical tools across AI, health tech, scientific
       <a href="https://github.com/m4cd4r4/erdos-straus-gateway">
         <img src="https://raw.githubusercontent.com/m4cd4r4/erdos-straus-gateway/main/banner.png" alt="Erdos-Straus Gateway"/>
       </a>
-      <p>Verified all 455M primes to 10^10 — max gateway parameter A = 359. Exactly 2 "hard" primes found in [2B, 10B]; discrete-log analysis proves both via distinct coverage mechanisms. Companion doc develops algebraic closure toward unconditional proof.</p>
+      <p>Current progress: Verified 455M primes to 10^10 — max A = 359. Two hard primes in [2B, 10B]; both proved via discrete-log coverage analysis.</p>
     </td>
     <td width="50%">
       <h4>Green H2 Catalyst Research</h4>
