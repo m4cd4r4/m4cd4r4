@@ -5,6 +5,7 @@ Full-stack developer building practical tools across AI, health tech, scientific
 [![Email](https://img.shields.io/badge/-m4cd4r4@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:m4cd4r4@gmail.com)
 [![Location](https://img.shields.io/badge/-Perth,%20WA-blue?style=flat&logo=google-maps&logoColor=white)](https://github.com/m4cd4r4)
 [![Solaisoft](https://img.shields.io/badge/-Solaisoft-000?style=flat&logo=safari&logoColor=white)](https://solaisoft.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-8B4513?style=flat&logo=github&logoColor=white)](https://m4cd4r4.github.io)
 
 ---
 
@@ -39,127 +40,61 @@ Full-stack developer building practical tools across AI, health tech, scientific
 [![sunpy](https://img.shields.io/badge/sunpy-%238537-dfb317?style=flat&logo=github)](https://github.com/sunpy/sunpy/pull/8537)
 [![astroplan](https://img.shields.io/badge/astroplan-%23636-dfb317?style=flat&logo=github)](https://github.com/astropy/astroplan/pull/636)
 [![spacepy](https://img.shields.io/badge/spacepy-%23832-dfb317?style=flat&logo=github)](https://github.com/spacepy/spacepy/pull/832)
-[![lh-ehr](https://img.shields.io/badge/LibreHealth%2Flh--ehr-%231698-dfb317?style=flat&logo=github)](https://github.com/LibreHealthIO/lh-ehr/pull/1698)
-[![ifme](https://img.shields.io/badge/ifmeorg%2Fifme-%232403-dfb317?style=flat&logo=github)](https://github.com/ifmeorg/ifme/pull/2403)
 
 ---
 
-### Projects
+### Featured Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h4>Home Scout</h4>
-      <a href="https://github.com/m4cd4r4/home-scout">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/home-scout/master/media/scout-hero.png" alt="Home Scout"/>
-      </a>
-      <p>Privacy-first home companion robot on Arduino VENTUNO Q - voice, vision, navigation, object memory, face recognition. Zero internet.</p>
-    </td>
-    <td width="50%">
-      <h4>mcpwrap</h4>
-      <a href="https://github.com/m4cd4r4/mcpwrap">
-        <img src="https://image.thum.io/get/width/600/https://mcp-forge-black.vercel.app" alt="mcpwrap"/>
-      </a>
-      <p>Turn any REST API into an MCP server in 10 seconds - runtime OpenAPI wrapper, zero codegen</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>Trutina</h4>
-      <a href="https://trutina.com.au">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/trutina.gif" alt="Trutina"/>
-      </a>
-      <p>Six-layer forensic pipeline detects forged mortgage documents in under 60 seconds</p>
-    </td>
-    <td width="50%">
-      <h4>RecStitch</h4>
-      <a href="https://github.com/m4cd4r4/recstitch">
-        <img src="https://image.thum.io/get/width/600/https://agent-trace-sage.vercel.app" alt="RecStitch"/>
-      </a>
-      <p>Record browser actions and export resilient automation scripts for Playwright, Stagehand, and Browser Use</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>Erdos-Straus Gateway</h4>
-      <a href="https://github.com/m4cd4r4/erdos-straus-gateway">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/erdos-straus-gateway/main/banner.png" alt="Erdos-Straus Gateway"/>
-      </a>
-      <p>Current progress: Verified 455M primes to 10^10 — max A = 359. Two hard primes in [2B, 10B]; both proved via discrete-log coverage analysis.</p>
-    </td>
-    <td width="50%">
-      <h4>Green H2 Catalyst Research</h4>
-      <a href="https://green-h2-catalyst.streamlit.app/">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/green-h2-catalyst-research/master/docs/screenshots/gate-status-board.png" alt="Green H2 Catalyst Research"/>
-      </a>
-      <p>Computational screening pipeline for earth-abundant OER catalysts - iridium-free green hydrogen production</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>BloodClarity</h4>
+    <td width="33%">
       <a href="https://bloodclarity.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/bloodclarity.gif" alt="BloodClarity"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/bloodclarity.gif" alt="BloodClarity"/>
       </a>
-      <p>Blood test interpretation platform - clinical-grade results explained in plain English</p>
+      <b>BloodClarity</b><br>
+      <sub>Blood test interpretation with clinical-grade ML accuracy</sub>
     </td>
-    <td width="50%">
-      <h4>BrightClause</h4>
-      <a href="https://brightclause.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/brightclause.gif" alt="BrightClause"/>
+    <td width="33%">
+      <a href="https://trutina.com.au">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/trutina.gif" alt="Trutina"/>
       </a>
-      <p>Contract analysis platform - obligation extraction, risk scoring, and plain English summaries</p>
+      <b>Trutina</b><br>
+      <sub>Forensic mortgage document analysis in under 60 seconds</sub>
+    </td>
+    <td width="33%">
+      <a href="https://github.com/m4cd4r4/home-scout">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/home-scout.png" alt="Home Scout"/>
+      </a>
+      <b>Home Scout</b><br>
+      <sub>Privacy-first companion robot — voice, vision, zero internet</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h4>SwanFlow</h4>
-      <a href="https://swanflow.com.au">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/swanflow.png" alt="SwanFlow"/>
-      </a>
-      <p>Real-time traffic monitoring for Perth - ESP32-CAM hardware with FOMO object detection and interactive map</p>
-    </td>
-    <td width="50%">
-      <h4>Cosmos Collective</h4>
+    <td width="33%">
       <a href="https://cosmos-collective.com.au">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/cosmos-collective-v2/main/public/images/solar-system-demo-optimized.gif" alt="Cosmos Collective"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/cosmos-collective.gif" alt="Cosmos Collective"/>
       </a>
-      <p>Explore the universe in the browser - 3D solar system, JWST multi-wavelength imagery, and 2,600+ Kepler exoplanet catalogue</p>
+      <b>Cosmos Collective</b><br>
+      <sub>Explore the universe in your browser — 3D solar system, JWST imagery, Kepler exoplanets</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>Asset Tracker</h4>
-      <a href="https://asset-tracker-m4cd4r4s-projects.vercel.app/app">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/asset-tracker.gif" alt="Asset Tracker"/>
+    <td width="33%">
+      <a href="https://brightclause.com">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/brightclause.gif" alt="BrightClause"/>
       </a>
-      <p>Real-time inventory management across multiple locations</p>
+      <b>BrightClause</b><br>
+      <sub>AI contract analysis for M&A due diligence</sub>
     </td>
-    <td width="50%">
-      <h4>Focloir</h4>
-      <a href="https://irish-dictionary-app.vercel.app/">
-        <img src="assets/foclair.png" alt="Focloir Irish-English Dictionary"/>
-      </a>
-      <p>Irish-English dictionary with 27,755 entries and fada-insensitive search</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>FreeDoom HD</h4>
-      <a href="https://github.com/m4cd4r4/freedoom-hd">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/freedoom-hd/master/docs/banner.png" alt="FreeDoom HD"/>
-      </a>
-      <p>4x upscaled texture pack for Freedoom - 2,553 assets enhanced with Real-ESRGAN</p>
-    </td>
-    <td width="50%">
-      <h4>PortPilot</h4>
+    <td width="33%">
       <a href="https://m4cd4r4.github.io/PortPilot/">
-        <img src="https://image.thum.io/get/width/600/https://m4cd4r4.github.io/PortPilot/" alt="PortPilot"/>
+        <img src="https://image.thum.io/get/width/600/m4cd4r4.github.io/PortPilot/" alt="PortPilot"/>
       </a>
-      <p>Localhost port manager for developers</p>
+      <b>PortPilot</b><br>
+      <sub>Localhost port manager for developers</sub>
     </td>
   </tr>
 </table>
+
+**[See all projects on my portfolio &rarr;](https://m4cd4r4.github.io)**
 
 ---
 
