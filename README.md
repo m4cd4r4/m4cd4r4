@@ -37,9 +37,10 @@ Full-stack developer building practical tools across AI, health tech, scientific
 
 [![lightkurve](https://img.shields.io/badge/lightkurve-%231543-dfb317?style=flat&logo=github)](https://github.com/lightkurve/lightkurve/pull/1543)
 [![astropy](https://img.shields.io/badge/astropy-%2319389-dfb317?style=flat&logo=github)](https://github.com/astropy/astropy/pull/19389)
-[![sunpy](https://img.shields.io/badge/sunpy-%238537-dfb317?style=flat&logo=github)](https://github.com/sunpy/sunpy/pull/8537)
 [![astroplan](https://img.shields.io/badge/astroplan-%23636-dfb317?style=flat&logo=github)](https://github.com/astropy/astroplan/pull/636)
 [![spacepy](https://img.shields.io/badge/spacepy-%23832-dfb317?style=flat&logo=github)](https://github.com/spacepy/spacepy/pull/832)
+[![ifme](https://img.shields.io/badge/ifmeorg%2Fifme-%232403-dfb317?style=flat&logo=github)](https://github.com/ifmeorg/ifme/pull/2403)
+[![lh-ehr](https://img.shields.io/badge/LibreHealthIO%2Flh--ehr-%231698-dfb317?style=flat&logo=github)](https://github.com/LibreHealthIO/lh-ehr/pull/1698)
 
 ---
 
@@ -66,7 +67,7 @@ Full-stack developer building practical tools across AI, health tech, scientific
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/home-scout.png" alt="Home Scout"/>
       </a>
       <b>Home Scout</b><br>
-      <sub>Privacy-first companion robot — voice, vision, zero internet</sub>
+      <sub>Privacy-first companion robot - voice, vision, zero internet</sub>
     </td>
   </tr>
   <tr>
@@ -75,7 +76,7 @@ Full-stack developer building practical tools across AI, health tech, scientific
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/cosmos-collective.gif" alt="Cosmos Collective"/>
       </a>
       <b>Cosmos Collective</b><br>
-      <sub>Explore the universe in your browser — 3D solar system, JWST imagery, Kepler exoplanets</sub>
+      <sub>Explore the universe in your browser - 3D solar system, JWST imagery, Kepler exoplanets</sub>
     </td>
     <td width="33%">
       <a href="https://brightclause.com">
