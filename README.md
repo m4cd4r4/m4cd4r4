@@ -50,7 +50,7 @@ Full-stack developer building practical tools across AI, health tech, scientific
   <tr>
     <td width="33%">
       <a href="https://bloodclarity.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/bloodclarity.gif" alt="BloodClarity"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/bloodclarity-thumb.png" alt="BloodClarity"/>
       </a>
       <b>BloodClarity</b><br>
       <sub>Blood test interpretation with clinical-grade ML accuracy</sub>
@@ -63,11 +63,11 @@ Full-stack developer building practical tools across AI, health tech, scientific
       <sub>Forensic mortgage document analysis in under 60 seconds</sub>
     </td>
     <td width="33%">
-      <a href="https://github.com/m4cd4r4/home-scout">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/home-scout.png" alt="Home Scout"/>
+      <a href="https://assay.software">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/assay-thumb.png" alt="Assay"/>
       </a>
-      <b>Home Scout</b><br>
-      <sub>Privacy-first companion robot - voice, vision, zero internet</sub>
+      <b>Assay</b><br>
+      <sub>COBOL documentation generator - 5-pass AI analysis pipeline</sub>
     </td>
   </tr>
   <tr>
