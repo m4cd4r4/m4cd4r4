@@ -23,46 +23,34 @@ Currently building tools for cloud certification and health tech.
 <table>
   <tr>
     <td width="50%">
+      <h4>BrightClause</h4>
+      <a href="https://github.com/m4cd4r4/BrightClause">
+        <img src="assets/brightclause.png" alt="BrightClause"/>
+      </a>
+      <p>AI contract analysis — clause extraction, risk scoring, obligation tracking</p>
+    </td>
+    <td width="50%">
+      <h4>BloodClarity</h4>
+      <a href="https://github.com/m4cd4r4/BloodClarity">
+        <img src="assets/bloodclarity-thumb.png" alt="BloodClarity"/>
+      </a>
+      <p>Blood test interpretation with 98.8% biomarker extraction accuracy</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h4>Cosmos Collective</h4>
       <a href="https://github.com/m4cd4r4/cosmos-collective-v2">
         <img src="assets/cosmos-collective.png" alt="Cosmos Collective"/>
       </a>
-      <p>Multi-spectrum astronomical data exploration with citizen science</p>
-    </td>
-    <td width="50%">
-      <h4>Yoovee</h4>
-      <a href="https://github.com/m4cd4r4/yoovee-store">
-        <img src="assets/yoovee.png" alt="Yoovee Store"/>
-      </a>
-      <p>Skin protection fingerless UV gloves</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>Samhradh</h4>
-      <a href="https://github.com/m4cd4r4/samhradh">
-        <img src="assets/samhradh.png" alt="Samhradh"/>
-      </a>
-      <p>YouTube transcript summarizer with AI</p>
+      <p>3D solar system, JWST imagery, and 2,600+ Kepler exoplanets</p>
     </td>
     <td width="50%">
       <h4>Asset Tracker</h4>
-      <a href="https://github.com/m4cd4r4/asset-tracker">
+      <a href="https://github.com/m4cd4r4/Asset-Tracker-v2">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/asset-tracker.gif" alt="Asset Tracker"/>
       </a>
-      <p>Tool for tracking stock across locations</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>Perth Traffic Watch</h4>
-      <a href="https://github.com/m4cd4r4/perth-traffic-watch">
-        <img src="assets/perth-traffic-watch.png" alt="Perth Traffic Watch"/>
-      </a>
-      <p>Real-time traffic monitoring with Edge AI and ESP32-CAM</p>
-    </td>
-    <td width="50%">
-      <!-- Empty cell for future project -->
+      <p>Real-time inventory management across multiple locations</p>
     </td>
   </tr>
 </table>
