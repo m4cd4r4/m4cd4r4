@@ -2,7 +2,7 @@
 
 Full-stack developer building practical tools across AI, health tech, scientific computing, and IoT. Based in Perth, Western Australia.
 
-[![Email](https://img.shields.io/badge/-m4cd4r4@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:m4cd4r4@gmail.com)
+[![Email](https://img.shields.io/badge/-m4cd4r4@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:macdara@solaisoft.com)
 [![Location](https://img.shields.io/badge/-Perth,%20WA-blue?style=flat&logo=google-maps&logoColor=white)](https://github.com/m4cd4r4)
 [![Solaisoft](https://img.shields.io/badge/-Solaisoft-000?style=flat&logo=safari&logoColor=white)](https://solaisoft.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-8B4513?style=flat&logo=github&logoColor=white)](https://m4cd4r4.github.io)
