@@ -82,7 +82,7 @@ Full-stack developer building practical tools across AI, health tech, scientific
     </td>
     <td width="33%">
       <a href="https://brightclause.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/brightclause.gif" alt="BrightClause"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/brightclause-thumb.png" alt="BrightClause"/>
       </a>
       <b>BrightClause</b><br>
       <sub>AI contract analysis for M&A due diligence</sub>
