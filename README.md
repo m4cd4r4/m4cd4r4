@@ -28,6 +28,9 @@ Full-stack developer building practical tools across AI, health tech, scientific
 
 **Merged**
 
+[![spacepy](https://img.shields.io/badge/spacepy-%23832-2ea44f?style=flat&logo=github)](https://github.com/spacepy/spacepy/pull/832)
+[![astropy](https://img.shields.io/badge/astropy-%2319404-2ea44f?style=flat&logo=github)](https://github.com/astropy/astropy/pull/19404)
+[![sunpy](https://img.shields.io/badge/sunpy-%238528-2ea44f?style=flat&logo=github)](https://github.com/sunpy/sunpy/pull/8528)
 [![astroquery](https://img.shields.io/badge/astropy%2Fastroquery-%233551-2ea44f?style=flat&logo=github)](https://github.com/astropy/astroquery/pull/3551)
 [![auto-archiver](https://img.shields.io/badge/bellingcat%2Fauto--archiver-%23377-2ea44f?style=flat&logo=github)](https://github.com/bellingcat/auto-archiver/pull/377)
 [![ifme](https://img.shields.io/badge/ifmeorg%2Fifme-%232402-2ea44f?style=flat&logo=github)](https://github.com/ifmeorg/ifme/pull/2402)
@@ -38,7 +41,6 @@ Full-stack developer building practical tools across AI, health tech, scientific
 [![lightkurve](https://img.shields.io/badge/lightkurve-%231543-dfb317?style=flat&logo=github)](https://github.com/lightkurve/lightkurve/pull/1543)
 [![astropy](https://img.shields.io/badge/astropy-%2319389-dfb317?style=flat&logo=github)](https://github.com/astropy/astropy/pull/19389)
 [![astroplan](https://img.shields.io/badge/astroplan-%23636-dfb317?style=flat&logo=github)](https://github.com/astropy/astroplan/pull/636)
-[![spacepy](https://img.shields.io/badge/spacepy-%23832-dfb317?style=flat&logo=github)](https://github.com/spacepy/spacepy/pull/832)
 [![ifme](https://img.shields.io/badge/ifmeorg%2Fifme-%232403-dfb317?style=flat&logo=github)](https://github.com/ifmeorg/ifme/pull/2403)
 [![lh-ehr](https://img.shields.io/badge/LibreHealthIO%2Flh--ehr-%231698-dfb317?style=flat&logo=github)](https://github.com/LibreHealthIO/lh-ehr/pull/1698)
 
