@@ -1,6 +1,6 @@
 ## Hi, I'm Macdara
 
-Full-stack developer building practical tools across AI, health tech, scientific computing, and IoT. Based in Perth, Western Australia.
+Full-stack developer building practical tools across health tech, scientific computing, and IoT. Based in Perth, Western Australia.
 
 [![Email](https://img.shields.io/badge/-m4cd4r4@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:macdara@solaisoft.com)
 [![Location](https://img.shields.io/badge/-Perth,%20WA-blue?style=flat&logo=google-maps&logoColor=white)](https://github.com/m4cd4r4)
