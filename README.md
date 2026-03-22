@@ -103,10 +103,7 @@ Full-stack developer building practical tools across health tech, scientific com
 
 ### Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=m4cd4r4&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4cd4r4&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages"/>
-</p>
+<img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/stats.svg" alt="GitHub stats"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4cd4r4&theme=transparent&hide_border=true" alt="GitHub streak"/>
 
