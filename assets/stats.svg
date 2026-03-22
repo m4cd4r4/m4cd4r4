@@ -20,7 +20,7 @@
       <text x="52" y="0" fill="#C9D1D9" font-size="13"
             font-family="Segoe UI, Ubuntu, sans-serif">Public Commits (2026)</text>
       <text x="432" y="0" fill="#58A6FF" font-size="13" text-anchor="end"
-            font-family="Segoe UI, Ubuntu, sans-serif" font-weight="600">643</text>
+            font-family="Segoe UI, Ubuntu, sans-serif" font-weight="600">644</text>
     </g>
     <g transform="translate(0, 112)">
       <text x="32" y="0" fill="#3FB950" font-size="14">🔁</text>
@@ -75,18 +75,18 @@
       </clipPath>
     </defs>
     <g clip-path="url(#lang-clip)">
-      <rect x="20.0" y="304" width="165.8" height="8" fill="#3178C6" rx="4" ry="4" />
-<rect x="185.8" y="304" width="121.6" height="8" fill="#3572A5" />
-<rect x="307.4" y="304" width="44.2" height="8" fill="#F1E05A" />
-<rect x="351.6" y="304" width="44.2" height="8" fill="#E34C26" />
-<rect x="395.8" y="304" width="33.2" height="8" fill="#012456" />
-<rect x="428.9" y="304" width="11.1" height="8" fill="#DA5B0B" rx="4" ry="4" />
+      <rect x="20.0" y="304" width="161.5" height="8" fill="#3178C6" rx="4" ry="4" />
+<rect x="181.5" y="304" width="129.2" height="8" fill="#3572A5" />
+<rect x="310.8" y="304" width="43.1" height="8" fill="#F1E05A" />
+<rect x="353.8" y="304" width="43.1" height="8" fill="#E34C26" />
+<rect x="396.9" y="304" width="32.3" height="8" fill="#012456" />
+<rect x="429.2" y="304" width="10.8" height="8" fill="#DA5B0B" rx="4" ry="4" />
     </g>
-<circle cx="24" cy="326" r="4" fill="#3178C6" /><text x="32" y="330" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">TypeScript 39.5%</text>
-<circle cx="148.0" cy="326" r="4" fill="#3572A5" /><text x="156.0" y="330" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">Python 28.9%</text>
-<circle cx="246.0" cy="326" r="4" fill="#F1E05A" /><text x="254.0" y="330" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">JavaScript 10.5%</text>
-<circle cx="370.0" cy="326" r="4" fill="#E34C26" /><text x="378.0" y="330" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">HTML 10.5%</text>
-<circle cx="24" cy="344" r="4" fill="#012456" /><text x="32" y="348" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">PowerShell 7.9%</text>
+<circle cx="24" cy="326" r="4" fill="#3178C6" /><text x="32" y="330" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">TypeScript 38.5%</text>
+<circle cx="148.0" cy="326" r="4" fill="#3572A5" /><text x="156.0" y="330" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">Python 30.8%</text>
+<circle cx="246.0" cy="326" r="4" fill="#F1E05A" /><text x="254.0" y="330" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">JavaScript 10.3%</text>
+<circle cx="370.0" cy="326" r="4" fill="#E34C26" /><text x="378.0" y="330" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">HTML 10.3%</text>
+<circle cx="24" cy="344" r="4" fill="#012456" /><text x="32" y="348" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">PowerShell 7.7%</text>
 <circle cx="141.5" cy="344" r="4" fill="#DA5B0B" /><text x="149.5" y="348" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">Jupyter Notebook 2.6%</text>
   
     <text x="230.0" y="374" fill="#8B949E" font-size="10" text-anchor="middle"
