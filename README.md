@@ -103,7 +103,7 @@ Full-stack developer building practical tools across health tech, scientific com
 
 ### Stats
 
-<img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/stats.svg" alt="GitHub stats"/>
+<a href="https://github.com/m4cd4r4"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/stats.svg" alt="GitHub stats"/></a>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=m4cd4r4&theme=transparent&hide_border=true" alt="GitHub streak"/>
 
