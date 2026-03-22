@@ -109,12 +109,12 @@ def fetch_stats():
         cc = gql["user"]["contributionsCollection"]
         graph_commits = cc["totalCommitContributions"]
         restricted_count = cc["restrictedContributionsCount"]
-        has_private = restricted_count > 0
         graph_prs = cc["totalPullRequestContributions"]
         graph_issues = cc["totalIssueContributions"]
         graph_reviews = cc["totalPullRequestReviewContributions"]
         total_repos = gql["user"]["repositories"]["totalCount"]
         private_repos = gql["user"]["privateRepos"]["totalCount"]
+        has_private = private_repos > 0
 
         for node in gql["user"]["allRepoLangs"]["nodes"]:
             lang = node.get("primaryLanguage")
@@ -174,7 +174,7 @@ def fetch_stats():
         "pub_reviews": reviews_pub.get("total_count", 0) if reviews_pub else 0,
         # Repos
         "pub_repos": pub_repos,
-        "total_repos": total_repos if has_private else pub_repos,
+        "total_repos": total_repos if total_repos else pub_repos,
         "private_repos": private_repos,
         # Other
         "followers": user.get("followers", 0) if user else 0,
@@ -409,17 +409,17 @@ def generate_svg(stats):
         dim, y,
     )
 
-    # --- Private contributions callout ---
-    if has_priv and stats["restricted_count"] > 0:
+    # --- Private activity callout ---
+    if has_priv:
         y += 32
-        rc = stats["restricted_count"]
+        priv_repos = stats["private_repos"]
         rows += f"""
     <rect x="20" y="{y - 14}" width="{w - 40}" height="24" rx="4" ry="4"
           fill="#161B22" stroke="{border}" stroke-width="1" />
     <text x="{w / 2}" y="{y + 2}" fill="{dim}" font-size="11" text-anchor="middle"
           font-family="Segoe UI, Ubuntu, sans-serif">
-      <tspan fill="{purple}" font-weight="600">+{fmt(rc)}</tspan>
-      <tspan> private contributions in {stats['year']}</tspan>
+      <tspan fill="{purple}" font-weight="600">+{priv_repos} private repos</tspan>
+      <tspan> - commit and contribution counts include private activity</tspan>
     </text>"""
 
     # --- Language section ---
