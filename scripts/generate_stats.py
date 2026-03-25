@@ -157,7 +157,7 @@ def fetch_stats():
 
     pub_repos = user.get("public_repos", 0) if user else 0
 
-    return {
+    result = {
         "has_private": has_private,
         # Contribution graph (year-scoped)
         "graph_commits": graph_commits,
@@ -185,6 +185,88 @@ def fetch_stats():
         "langs_include_private": bool(all_langs),
         "updated": datetime.now(timezone.utc).strftime("%b %d, %Y"),
     }
+    result["rank"] = calculate_rank(result)
+    return result
+
+
+def calculate_rank(stats):
+    """Calculate a letter grade using the same exponential CDF approach as github-readme-stats.
+
+    Weights and medians are tuned to match the original project's thresholds.
+    Returns a dict with 'grade' (e.g. 'A+') and 'percentile' (0-100, lower = better).
+    """
+    import math
+
+    def exp_cdf(x, lam):
+        return 1 - math.exp(-lam * x)
+
+    WEIGHTS = {
+        "commits":   0.35,
+        "prs":       0.25,
+        "reviews":   0.10,
+        "issues":    0.10,
+        "stars":     0.15,
+        "followers": 0.05,
+    }
+
+    # Medians from github-readme-stats calibration
+    MEDIANS = {
+        "commits":   250,
+        "prs":       50,
+        "reviews":   10,
+        "issues":    25,
+        "stars":     50,
+        "followers": 10,
+    }
+
+    def score(key, value):
+        lam = math.log(2) / MEDIANS[key]
+        return exp_cdf(value, lam)
+
+    rank_score = (
+        score("commits",   stats["graph_commits"]) * WEIGHTS["commits"] +
+        score("prs",       stats["pub_prs"])        * WEIGHTS["prs"] +
+        score("reviews",   stats["pub_reviews"])    * WEIGHTS["reviews"] +
+        score("issues",    stats["pub_issues"])     * WEIGHTS["issues"] +
+        score("stars",     stats["stars"])          * WEIGHTS["stars"] +
+        score("followers", stats["followers"])      * WEIGHTS["followers"]
+    )
+
+    # Convert to percentile (lower percentile = better)
+    percentile = (1 - rank_score) * 100
+
+    THRESHOLDS = [
+        (1,   "S"),
+        (12.5, "A+"),
+        (25,  "A"),
+        (37.5, "A-"),
+        (50,  "B+"),
+        (62.5, "B"),
+        (75,  "C"),
+        (87.5, "D"),
+        (100, "E"),
+    ]
+
+    grade = "E"
+    for threshold, letter in THRESHOLDS:
+        if percentile <= threshold:
+            grade = letter
+            break
+
+    return {"grade": grade, "percentile": percentile}
+
+
+GRADE_COLORS = {
+    "S":  "#FFD700",
+    "A+": "#58A6FF",
+    "A":  "#58A6FF",
+    "A-": "#3FB950",
+    "B+": "#3FB950",
+    "B":  "#D29922",
+    "C":  "#D29922",
+    "D":  "#BC8CFF",
+    "E":  "#8B949E",
+}
 
 
 LANG_COLORS = {
@@ -320,11 +402,26 @@ def generate_svg(stats):
 
     title = f"{DISPLAY_NAME}'s GitHub Stats"
 
+    rank = stats.get("rank", {})
+    grade = rank.get("grade", "B")
+    grade_color = GRADE_COLORS.get(grade, "#8B949E")
+
+    # Grade badge in top-right corner
+    badge_cx = w - 38
+    badge_cy = 24
+    badge_r = 18
+    grade_badge = f"""
+    <circle cx="{badge_cx}" cy="{badge_cy}" r="{badge_r}"
+            fill="none" stroke="{grade_color}" stroke-width="2" opacity="0.8"/>
+    <text x="{badge_cx}" y="{badge_cy + 5}" fill="{grade_color}" font-size="14"
+          font-family="Segoe UI, Ubuntu, sans-serif" font-weight="700"
+          text-anchor="middle">{grade}</text>"""
+
     y = 50
     header = ""
     if has_priv:
         header = f"""
-    <text x="{w - 28}" y="{y}" fill="{dim}" font-size="10" text-anchor="end"
+    <text x="{w - 28 - badge_r * 2 - 10}" y="{y}" fill="{dim}" font-size="10" text-anchor="end"
           font-family="Segoe UI, Ubuntu, sans-serif" letter-spacing="0.5">
       public  |  total
     </text>"""
@@ -452,6 +549,7 @@ def generate_svg(stats):
         font-family="Segoe UI, Ubuntu, sans-serif" font-weight="700">
     {title}
   </text>
+  {grade_badge}
   <line x1="20" y1="40" x2="{w - 20}" y2="40" stroke="{border}" stroke-width="1" />
 
   {header}
