@@ -43,6 +43,8 @@ Full-stack developer building practical tools across health tech, scientific com
 [![astroplan](https://img.shields.io/badge/astroplan-%23636-dfb317?style=flat&logo=github)](https://github.com/astropy/astroplan/pull/636)
 [![ifme](https://img.shields.io/badge/ifmeorg%2Fifme-%232403-dfb317?style=flat&logo=github)](https://github.com/ifmeorg/ifme/pull/2403)
 [![lh-ehr](https://img.shields.io/badge/LibreHealthIO%2Flh--ehr-%231698-dfb317?style=flat&logo=github)](https://github.com/LibreHealthIO/lh-ehr/pull/1698)
+[![scipy](https://img.shields.io/badge/scipy-%2324872-dfb317?style=flat&logo=github)](https://github.com/scipy/scipy/pull/24872)
+[![BoostNote](https://img.shields.io/badge/BoostIO%2FBoostNote--Legacy-%233777-dfb317?style=flat&logo=github)](https://github.com/BoostIO/BoostNote-Legacy/pull/3777)
 
 ---
 
