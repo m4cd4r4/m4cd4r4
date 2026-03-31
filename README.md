@@ -28,6 +28,8 @@ Full-stack developer building practical tools across health tech, scientific com
 
 **Merged**
 
+[![drone-tm](https://img.shields.io/badge/hotosm%2Fdrone--tm-%23752-2ea44f?style=flat&logo=github)](https://github.com/hotosm/drone-tm/pull/752)
+[![space-squid](https://img.shields.io/badge/zardoy%2Fspace--squid-%2316-2ea44f?style=flat&logo=github)](https://github.com/zardoy/space-squid/pull/16)
 [![spacepy](https://img.shields.io/badge/spacepy-%23832-2ea44f?style=flat&logo=github)](https://github.com/spacepy/spacepy/pull/832)
 [![astropy](https://img.shields.io/badge/astropy-%2319404-2ea44f?style=flat&logo=github)](https://github.com/astropy/astropy/pull/19404)
 [![sunpy](https://img.shields.io/badge/sunpy-%238528-2ea44f?style=flat&logo=github)](https://github.com/sunpy/sunpy/pull/8528)
@@ -38,6 +40,7 @@ Full-stack developer building practical tools across health tech, scientific com
 
 **Under review**
 
+[![claude-code](https://img.shields.io/badge/anthropics%2Fclaude--code-%2341453-dfb317?style=flat&logo=github)](https://github.com/anthropics/claude-code/pull/41453)
 [![lightkurve](https://img.shields.io/badge/lightkurve-%231543-dfb317?style=flat&logo=github)](https://github.com/lightkurve/lightkurve/pull/1543)
 [![astropy](https://img.shields.io/badge/astropy-%2319389-dfb317?style=flat&logo=github)](https://github.com/astropy/astropy/pull/19389)
 [![astroplan](https://img.shields.io/badge/astroplan-%23636-dfb317?style=flat&logo=github)](https://github.com/astropy/astroplan/pull/636)
