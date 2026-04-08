@@ -41,13 +41,15 @@ Full-stack developer building practical tools across health tech, scientific com
 **Under review**
 
 [![claude-code](https://img.shields.io/badge/anthropics%2Fclaude--code-%2341453-dfb317?style=flat&logo=github)](https://github.com/anthropics/claude-code/pull/41453)
+[![drone-tm](https://img.shields.io/badge/hotosm%2Fdrone--tm-%23775-dfb317?style=flat&logo=github)](https://github.com/hotosm/drone-tm/pull/775)
+[![scipy](https://img.shields.io/badge/scipy-%2324872-dfb317?style=flat&logo=github)](https://github.com/scipy/scipy/pull/24872)
 [![lightkurve](https://img.shields.io/badge/lightkurve-%231543-dfb317?style=flat&logo=github)](https://github.com/lightkurve/lightkurve/pull/1543)
 [![astropy](https://img.shields.io/badge/astropy-%2319389-dfb317?style=flat&logo=github)](https://github.com/astropy/astropy/pull/19389)
 [![astroplan](https://img.shields.io/badge/astroplan-%23636-dfb317?style=flat&logo=github)](https://github.com/astropy/astroplan/pull/636)
+[![lightning](https://img.shields.io/badge/OpenFn%2Flightning-%234590-dfb317?style=flat&logo=github)](https://github.com/OpenFn/lightning/pull/4590)
+[![lightning](https://img.shields.io/badge/OpenFn%2Flightning-%234591-dfb317?style=flat&logo=github)](https://github.com/OpenFn/lightning/pull/4591)
 [![ifme](https://img.shields.io/badge/ifmeorg%2Fifme-%232403-dfb317?style=flat&logo=github)](https://github.com/ifmeorg/ifme/pull/2403)
 [![lh-ehr](https://img.shields.io/badge/LibreHealthIO%2Flh--ehr-%231698-dfb317?style=flat&logo=github)](https://github.com/LibreHealthIO/lh-ehr/pull/1698)
-[![scipy](https://img.shields.io/badge/scipy-%2324872-dfb317?style=flat&logo=github)](https://github.com/scipy/scipy/pull/24872)
-[![BoostNote](https://img.shields.io/badge/BoostIO%2FBoostNote--Legacy-%233777-dfb317?style=flat&logo=github)](https://github.com/BoostIO/BoostNote-Legacy/pull/3777)
 
 ---
 
