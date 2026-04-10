@@ -57,13 +57,6 @@ Full-stack developer building practical tools across health tech, scientific com
 <table>
   <tr>
     <td width="33%">
-      <a href="https://bloodclarity.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/bloodclarity-thumb.png" alt="BloodClarity"/>
-      </a>
-      <b>BloodClarity</b><br>
-      <sub>Blood test interpretation with clinical-grade ML accuracy</sub>
-    </td>
-    <td width="33%">
       <a href="https://trutina.com.au">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/trutina.gif" alt="Trutina"/>
       </a>
@@ -77,8 +70,6 @@ Full-stack developer building practical tools across health tech, scientific com
       <b>Assay</b><br>
       <sub>COBOL documentation generator - 5-pass AI analysis pipeline</sub>
     </td>
-  </tr>
-  <tr>
     <td width="33%">
       <a href="https://cosmos-collective.com.au">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/cosmos-collective.gif" alt="Cosmos Collective"/>
@@ -86,6 +77,8 @@ Full-stack developer building practical tools across health tech, scientific com
       <b>Cosmos Collective</b><br>
       <sub>Explore the universe in your browser - 3D solar system, JWST imagery, Kepler exoplanets</sub>
     </td>
+  </tr>
+  <tr>
     <td width="33%">
       <a href="https://brightclause.com">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/brightclause-thumb.png" alt="BrightClause"/>
@@ -100,6 +93,7 @@ Full-stack developer building practical tools across health tech, scientific com
       <b>PortPilot</b><br>
       <sub>Localhost port manager for developers</sub>
     </td>
+    <td width="33%"></td>
   </tr>
 </table>
 
