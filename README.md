@@ -57,6 +57,11 @@ Full-stack developer building practical tools across health tech, scientific com
 <table>
   <tr>
     <td width="33%">
+      <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/bloodclarity-thumb.png" alt="BloodClarity"/>
+      <b>BloodClarity</b><br>
+      <sub><em>Switched to Private - Under further development</em></sub>
+    </td>
+    <td width="33%">
       <a href="https://trutina.com.au">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/trutina.gif" alt="Trutina"/>
       </a>
