@@ -31,7 +31,7 @@
       <text x="52" y="0" fill="#C9D1D9" font-size="13"
             font-family="Segoe UI, Ubuntu, sans-serif">Commits (2026)</text>
       <text x="462" y="0" fill="#58A6FF" font-size="13" text-anchor="end"
-            font-family="Segoe UI, Ubuntu, sans-serif" font-weight="600">4.2k</text>
+            font-family="Segoe UI, Ubuntu, sans-serif" font-weight="600">4.3k</text>
     </g>
     <g transform="translate(0, 124)">
       <text x="32" y="0" fill="#3FB950" font-size="14">🔁</text>
@@ -57,7 +57,7 @@
             font-family="Segoe UI, Ubuntu, sans-serif">
         <tspan fill="#58A6FF" font-weight="600">80</tspan>
         <tspan fill="#30363D">  |  </tspan>
-        <tspan fill="#58A6FF" font-weight="600" opacity="0.5">229</tspan>
+        <tspan fill="#58A6FF" font-weight="600" opacity="0.5">230</tspan>
       </text>
     </g>
     <g transform="translate(0, 224)">
@@ -85,7 +85,7 @@
           fill="#161B22" stroke="#30363D" stroke-width="1" />
     <text x="245.0" y="314" fill="#8B949E" font-size="11" text-anchor="middle"
           font-family="Segoe UI, Ubuntu, sans-serif">
-      <tspan fill="#BC8CFF" font-weight="600">+149 private repos</tspan>
+      <tspan fill="#BC8CFF" font-weight="600">+150 private repos</tspan>
       <tspan> - commit and contribution counts include private activity</tspan>
     </text>
   
@@ -99,19 +99,19 @@
       </clipPath>
     </defs>
     <g clip-path="url(#lang-clip)">
-      <rect x="20.0" y="364" width="225.0" height="8" fill="#3178C6" rx="4" ry="4" />
-<rect x="245.0" y="364" width="112.5" height="8" fill="#3572A5" />
-<rect x="357.5" y="364" width="68.5" height="8" fill="#E34C26" />
-<rect x="426.0" y="364" width="24.5" height="8" fill="#F1E05A" />
+      <rect x="20.0" y="364" width="220.1" height="8" fill="#3178C6" rx="4" ry="4" />
+<rect x="240.1" y="364" width="112.5" height="8" fill="#3572A5" />
+<rect x="352.6" y="364" width="68.5" height="8" fill="#E34C26" />
+<rect x="421.1" y="364" width="29.3" height="8" fill="#F1E05A" />
 <rect x="450.4" y="364" width="4.9" height="8" fill="#8B8B8B" />
 <rect x="455.3" y="364" width="4.9" height="8" fill="#89E051" />
 <rect x="460.2" y="364" width="4.9" height="8" fill="#00ADD8" />
 <rect x="465.1" y="364" width="4.9" height="8" fill="#B07219" rx="4" ry="4" />
     </g>
-<circle cx="24" cy="386" r="4" fill="#3178C6" /><text x="32" y="390" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">TypeScript 50%</text>
+<circle cx="24" cy="386" r="4" fill="#3178C6" /><text x="32" y="390" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">TypeScript 49%</text>
 <circle cx="130.8" cy="386" r="4" fill="#3572A5" /><text x="138.8" y="390" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">Python 25%</text>
 <circle cx="212.8" cy="386" r="4" fill="#E34C26" /><text x="220.8" y="390" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">HTML 15%</text>
-<circle cx="282.4" cy="386" r="4" fill="#F1E05A" /><text x="290.4" y="390" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">JavaScript 5%</text>
+<circle cx="282.4" cy="386" r="4" fill="#F1E05A" /><text x="290.4" y="390" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">JavaScript 7%</text>
 <circle cx="383.0" cy="386" r="4" fill="#8B8B8B" /><text x="391.0" y="390" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">Elixir 1%</text>
 <circle cx="24" cy="404" r="4" fill="#89E051" /><text x="32" y="408" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">Shell 1%</text>
 <circle cx="93.6" cy="404" r="4" fill="#00ADD8" /><text x="101.6" y="408" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">Go 1%</text>
@@ -119,6 +119,6 @@
   
     <text x="245.0" y="434" fill="#8B949E" font-size="10" text-anchor="middle"
           font-family="Segoe UI, Ubuntu, sans-serif">
-      Updated Apr 23, 2026 - generated from live GitHub API data
+      Updated Apr 24, 2026 - generated from live GitHub API data
     </text>
 </svg>
