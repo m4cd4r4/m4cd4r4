@@ -2,7 +2,7 @@
 
 Full-stack developer building practical tools across health tech, scientific computing, and IoT. Based in Perth, Western Australia.
 
-[![Email](https://img.shields.io/badge/-m4cd4r4@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:macdara@solaisoft.com)
+[![Email](https://img.shields.io/badge/-macdara.work@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:macdara.work@gmail.com)
 [![Location](https://img.shields.io/badge/-Perth,%20WA-blue?style=flat&logo=google-maps&logoColor=white)](https://github.com/m4cd4r4)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-8B4513?style=flat&logo=github&logoColor=white)](https://m4cd4r4.github.io)
 
@@ -75,6 +75,8 @@ Full-stack developer building practical tools across health tech, scientific com
       <b>Assay</b><br>
       <sub>COBOL documentation generator - 5-pass AI analysis pipeline</sub>
     </td>
+  </tr>
+  <tr>
     <td width="33%">
       <a href="https://cosmos-collective.com.au">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/cosmos-collective.gif" alt="Cosmos Collective"/>
@@ -82,8 +84,6 @@ Full-stack developer building practical tools across health tech, scientific com
       <b>Cosmos Collective</b><br>
       <sub>Explore the universe in your browser - 3D solar system, JWST imagery, Kepler exoplanets</sub>
     </td>
-  </tr>
-  <tr>
     <td width="33%">
       <a href="https://brightclause.com">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/brightclause-thumb.png" alt="BrightClause"/>
@@ -98,7 +98,6 @@ Full-stack developer building practical tools across health tech, scientific com
       <b>PortPilot</b><br>
       <sub>Localhost port manager for developers</sub>
     </td>
-    <td width="33%"></td>
   </tr>
 </table>
 
