@@ -52,6 +52,7 @@ Full-stack developer building practical tools across health tech, scientific com
 [![ifme](https://img.shields.io/badge/ifmeorg%2Fifme-%232403-dfb317?style=flat&logo=github)](https://github.com/ifmeorg/ifme/pull/2403)
 [![lh-ehr](https://img.shields.io/badge/LibreHealthIO%2Flh--ehr-%231698-dfb317?style=flat&logo=github)](https://github.com/LibreHealthIO/lh-ehr/pull/1698)
 [![mne-python](https://img.shields.io/badge/mne--tools%2Fmne--python-%2313896-dfb317?style=flat&logo=github)](https://github.com/mne-tools/mne-python/pull/13896)
+[![scipy](https://img.shields.io/badge/scipy-%2325122-dfb317?style=flat&logo=github)](https://github.com/scipy/scipy/pull/25122)
 
 ---
 
