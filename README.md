@@ -37,6 +37,7 @@ Full-stack developer building practical tools across health tech, scientific com
 [![auto-archiver](https://img.shields.io/badge/bellingcat%2Fauto--archiver-%23377-2ea44f?style=flat&logo=github)](https://github.com/bellingcat/auto-archiver/pull/377)
 [![ifme](https://img.shields.io/badge/ifmeorg%2Fifme-%232402-2ea44f?style=flat&logo=github)](https://github.com/ifmeorg/ifme/pull/2402)
 [![buildspace](https://img.shields.io/badge/buildspace%2Fprojects-%23286-2ea44f?style=flat&logo=github)](https://github.com/buildspace/buildspace-projects/pull/286)
+[![lightning](https://img.shields.io/badge/OpenFn%2Flightning-%234590-2ea44f?style=flat&logo=github)](https://github.com/OpenFn/lightning/pull/4590)
 
 **Under review**
 
@@ -45,13 +46,10 @@ Full-stack developer building practical tools across health tech, scientific com
 [![scipy](https://img.shields.io/badge/scipy-%2324872-dfb317?style=flat&logo=github)](https://github.com/scipy/scipy/pull/24872)
 [![lightkurve](https://img.shields.io/badge/lightkurve-%231543-dfb317?style=flat&logo=github)](https://github.com/lightkurve/lightkurve/pull/1543)
 [![astroplan](https://img.shields.io/badge/astroplan-%23636-dfb317?style=flat&logo=github)](https://github.com/astropy/astroplan/pull/636)
-[![lightning](https://img.shields.io/badge/OpenFn%2Flightning-%234590-dfb317?style=flat&logo=github)](https://github.com/OpenFn/lightning/pull/4590)
 [![lightning](https://img.shields.io/badge/OpenFn%2Flightning-%234591-dfb317?style=flat&logo=github)](https://github.com/OpenFn/lightning/pull/4591)
 [![lightning](https://img.shields.io/badge/OpenFn%2Flightning-%234592-dfb317?style=flat&logo=github)](https://github.com/OpenFn/lightning/pull/4592)
-[![lightning](https://img.shields.io/badge/OpenFn%2Flightning-%234593-dfb317?style=flat&logo=github)](https://github.com/OpenFn/lightning/pull/4593)
 [![ifme](https://img.shields.io/badge/ifmeorg%2Fifme-%232403-dfb317?style=flat&logo=github)](https://github.com/ifmeorg/ifme/pull/2403)
 [![lh-ehr](https://img.shields.io/badge/LibreHealthIO%2Flh--ehr-%231698-dfb317?style=flat&logo=github)](https://github.com/LibreHealthIO/lh-ehr/pull/1698)
-[![mne-python](https://img.shields.io/badge/mne--tools%2Fmne--python-%2313896-dfb317?style=flat&logo=github)](https://github.com/mne-tools/mne-python/pull/13896)
 [![scipy](https://img.shields.io/badge/scipy-%2325122-dfb317?style=flat&logo=github)](https://github.com/scipy/scipy/pull/25122)
 
 ---
