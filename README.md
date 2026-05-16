@@ -60,47 +60,61 @@ Full-stack developer building practical tools across health tech, scientific com
 
 <table>
   <tr>
-    <td width="33%">
-      <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/bloodclarity-thumb.png" alt="BloodClarity"/>
-      <b>BloodClarity</b><br>
-      <sub><em>Switched to Private - Under further development</em></sub>
+    <td width="25%">
+      <a href="https://azureprep.com">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/azureprep.png" alt="AzurePrep"/>
+      </a>
+      <b>AzurePrep</b><br>
+      <sub>Azure &amp; GitHub cert practice - 40 certs, ~18,000 audited questions, SM-2 spaced repetition</sub>
     </td>
-    <td width="33%">
+    <td width="25%">
       <a href="https://trutina.com.au">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/trutina.gif" alt="Trutina"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/trutina.png" alt="Trutina"/>
       </a>
       <b>Trutina</b><br>
       <sub>Forensic mortgage document analysis in under 60 seconds</sub>
     </td>
-    <td width="33%">
+    <td width="25%">
       <a href="https://assay.software">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/assay-thumb.png" alt="Assay"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/assay.png" alt="Assay"/>
       </a>
       <b>Assay</b><br>
       <sub>COBOL documentation generator - 5-pass AI analysis pipeline</sub>
     </td>
+    <td width="25%">
+      <a href="https://brightclause.com">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/brightclause.png" alt="BrightClause"/>
+      </a>
+      <b>BrightClause</b><br>
+      <sub>AI contract analysis for M&amp;A due diligence</sub>
+    </td>
   </tr>
   <tr>
-    <td width="33%">
+    <td width="25%">
+      <a href="https://chlann.com">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/chlann.png" alt="Chlann"/>
+      </a>
+      <b>Chlann</b><br>
+      <sub>Self-hosted, E2E-encrypted family messaging (Signal Protocol)</sub>
+    </td>
+    <td width="25%">
       <a href="https://cosmos-collective.com.au">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/cosmos-collective.gif" alt="Cosmos Collective"/>
       </a>
       <b>Cosmos Collective</b><br>
       <sub>Explore the universe in your browser - 3D solar system, JWST imagery, Kepler exoplanets</sub>
     </td>
-    <td width="33%">
-      <a href="https://brightclause.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/brightclause-thumb.png" alt="BrightClause"/>
-      </a>
-      <b>BrightClause</b><br>
-      <sub>AI contract analysis for M&A due diligence</sub>
-    </td>
-    <td width="33%">
+    <td width="25%">
       <a href="https://m4cd4r4.github.io/PortPilot/">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/portpilot.png" alt="PortPilot"/>
       </a>
       <b>PortPilot</b><br>
       <sub>Localhost port manager for developers</sub>
+    </td>
+    <td width="25%">
+      <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/bloodclarity-thumb.png" alt="BloodClarity"/>
+      <b>BloodClarity</b><br>
+      <sub><em>Switched to Private - Under further development</em></sub>
     </td>
   </tr>
 </table>
