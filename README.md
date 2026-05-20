@@ -96,11 +96,11 @@ Full-stack developer building practical tools across health tech, fin tech, educ
       <sub>Self-hosted, E2E-encrypted family messaging (Signal Protocol)</sub>
     </td>
     <td width="25%">
-      <a href="https://cosmos-collective.com.au">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/cosmos-collective.gif" alt="Cosmos Collective"/>
+      <a href="https://replaceable.com.au">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/replaceable.png" alt="Replaceable"/>
       </a>
-      <b>Cosmos Collective</b><br>
-      <sub>Explore the universe in your browser - 3D solar system, JWST imagery, Kepler exoplanets</sub>
+      <b>Replaceable</b><br>
+      <sub>SaaS-stack teardown - same-day keep/layer/kill verdict with fixed-fee custom connectors to replace what dies</sub>
     </td>
     <td width="25%">
       <a href="https://m4cd4r4.github.io/PortPilot/">
