@@ -42,9 +42,7 @@ Full-stack developer building practical tools across health tech, fin tech, educ
 **Under review**
 
 [![claude-code](https://img.shields.io/badge/anthropics%2Fclaude--code-%2341453-dfb317?style=flat&logo=github)](https://github.com/anthropics/claude-code/pull/41453)
-[![drone-tm](https://img.shields.io/badge/hotosm%2Fdrone--tm-%23775-dfb317?style=flat&logo=github)](https://github.com/hotosm/drone-tm/pull/775)
 [![scipy](https://img.shields.io/badge/scipy-%2324872-dfb317?style=flat&logo=github)](https://github.com/scipy/scipy/pull/24872)
-[![lightkurve](https://img.shields.io/badge/lightkurve-%231543-dfb317?style=flat&logo=github)](https://github.com/lightkurve/lightkurve/pull/1543)
 [![astroplan](https://img.shields.io/badge/astroplan-%23636-dfb317?style=flat&logo=github)](https://github.com/astropy/astroplan/pull/636)
 [![lightning](https://img.shields.io/badge/OpenFn%2Flightning-%234591-dfb317?style=flat&logo=github)](https://github.com/OpenFn/lightning/pull/4591)
 [![lightning](https://img.shields.io/badge/OpenFn%2Flightning-%234592-dfb317?style=flat&logo=github)](https://github.com/OpenFn/lightning/pull/4592)
