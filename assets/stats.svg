@@ -31,7 +31,7 @@
       <text x="52" y="0" fill="#C9D1D9" font-size="13"
             font-family="Segoe UI, Ubuntu, sans-serif">Commits (2026)</text>
       <text x="462" y="0" fill="#58A6FF" font-size="13" text-anchor="end"
-            font-family="Segoe UI, Ubuntu, sans-serif" font-weight="600">5.9k</text>
+            font-family="Segoe UI, Ubuntu, sans-serif" font-weight="600">6.0k</text>
     </g>
     <g transform="translate(0, 124)">
       <text x="32" y="0" fill="#3FB950" font-size="14">🔁</text>
@@ -41,7 +41,7 @@
             font-family="Segoe UI, Ubuntu, sans-serif" font-weight="600">2.3k</text>
     </g>
     <text x="52" y="144" fill="#8B949E" font-size="11"
-          font-family="Segoe UI, Ubuntu, sans-serif">2.0k merged / 101 open (public, all time)</text>
+          font-family="Segoe UI, Ubuntu, sans-serif">2.1k merged / 47 open (public, all time)</text>
     <g transform="translate(0, 168)">
       <text x="32" y="0" fill="#BC8CFF" font-size="14">🌍</text>
       <text x="52" y="0" fill="#C9D1D9" font-size="13"
@@ -57,7 +57,7 @@
             font-family="Segoe UI, Ubuntu, sans-serif">
         <tspan fill="#58A6FF" font-weight="600">86</tspan>
         <tspan fill="#30363D">  |  </tspan>
-        <tspan fill="#58A6FF" font-weight="600" opacity="0.5">252</tspan>
+        <tspan fill="#58A6FF" font-weight="600" opacity="0.5">253</tspan>
       </text>
     </g>
     <g transform="translate(0, 224)">
@@ -85,7 +85,7 @@
           fill="#161B22" stroke="#30363D" stroke-width="1" />
     <text x="245.0" y="314" fill="#8B949E" font-size="11" text-anchor="middle"
           font-family="Segoe UI, Ubuntu, sans-serif">
-      <tspan fill="#BC8CFF" font-weight="600">+166 private repos</tspan>
+      <tspan fill="#BC8CFF" font-weight="600">+167 private repos</tspan>
       <tspan> - commit and contribution counts include private activity</tspan>
     </text>
   
@@ -99,26 +99,26 @@
       </clipPath>
     </defs>
     <g clip-path="url(#lang-clip)">
-      <rect x="20.0" y="364" width="227.6" height="8" fill="#3178C6" rx="4" ry="4" />
-<rect x="247.6" y="364" width="105.9" height="8" fill="#3572A5" />
-<rect x="353.5" y="364" width="68.8" height="8" fill="#E34C26" />
-<rect x="422.4" y="364" width="26.5" height="8" fill="#F1E05A" />
-<rect x="448.8" y="364" width="5.3" height="8" fill="#563D7C" />
-<rect x="454.1" y="364" width="5.3" height="8" fill="#DEA584" />
-<rect x="459.4" y="364" width="5.3" height="8" fill="#701516" />
-<rect x="464.7" y="364" width="5.3" height="8" fill="#8B8B8B" rx="4" ry="4" />
+      <rect x="20.0" y="364" width="225.0" height="8" fill="#3178C6" rx="4" ry="4" />
+<rect x="245.0" y="364" width="104.7" height="8" fill="#3572A5" />
+<rect x="349.7" y="364" width="68.0" height="8" fill="#E34C26" />
+<rect x="417.7" y="364" width="31.4" height="8" fill="#F1E05A" />
+<rect x="449.1" y="364" width="5.2" height="8" fill="#DEA584" />
+<rect x="454.3" y="364" width="5.2" height="8" fill="#701516" />
+<rect x="459.5" y="364" width="5.2" height="8" fill="#8B8B8B" />
+<rect x="464.8" y="364" width="5.2" height="8" fill="#8B8B8B" rx="4" ry="4" />
     </g>
-<circle cx="24" cy="386" r="4" fill="#3178C6" /><text x="32" y="390" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">TypeScript 51%</text>
-<circle cx="130.8" cy="386" r="4" fill="#3572A5" /><text x="138.8" y="390" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">Python 24%</text>
+<circle cx="24" cy="386" r="4" fill="#3178C6" /><text x="32" y="390" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">TypeScript 50%</text>
+<circle cx="130.8" cy="386" r="4" fill="#3572A5" /><text x="138.8" y="390" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">Python 23%</text>
 <circle cx="212.8" cy="386" r="4" fill="#E34C26" /><text x="220.8" y="390" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">HTML 15%</text>
-<circle cx="282.4" cy="386" r="4" fill="#F1E05A" /><text x="290.4" y="390" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">JavaScript 6%</text>
-<circle cx="383.0" cy="386" r="4" fill="#563D7C" /><text x="391.0" y="390" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">CSS 1%</text>
-<circle cx="24" cy="404" r="4" fill="#DEA584" /><text x="32" y="408" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">Rust 1%</text>
-<circle cx="87.4" cy="404" r="4" fill="#701516" /><text x="95.4" y="408" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">Ruby 1%</text>
-<circle cx="150.8" cy="404" r="4" fill="#8B8B8B" /><text x="158.8" y="408" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">Elixir 1%</text>
+<circle cx="282.4" cy="386" r="4" fill="#F1E05A" /><text x="290.4" y="390" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">JavaScript 7%</text>
+<circle cx="383.0" cy="386" r="4" fill="#DEA584" /><text x="391.0" y="390" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">Rust 1%</text>
+<circle cx="24" cy="404" r="4" fill="#701516" /><text x="32" y="408" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">Ruby 1%</text>
+<circle cx="87.4" cy="404" r="4" fill="#8B8B8B" /><text x="95.4" y="408" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">Elixir 1%</text>
+<circle cx="163.20000000000002" cy="404" r="4" fill="#8B8B8B" /><text x="171.20000000000002" y="408" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">Kotlin 1%</text>
   
     <text x="245.0" y="434" fill="#8B949E" font-size="10" text-anchor="middle"
           font-family="Segoe UI, Ubuntu, sans-serif">
-      Updated May 30, 2026 - generated from live GitHub API data
+      Updated May 31, 2026 - generated from live GitHub API data
     </text>
 </svg>
