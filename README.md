@@ -71,12 +71,21 @@ Full-stack developer building practical tools across health tech, fin tech, educ
       <sub>Forensic mortgage document analysis in under 60 seconds</sub>
     </td>
     <td width="25%">
+      <a href="https://github.com/m4cd4r4/alight">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/alight/main/docs/screenshots/play-dark.png" alt="Alight"/>
+      </a>
+      <b>Alight</b><br>
+      <sub>Two-hands piano chord illustration - type a song, see exactly which keys to press</sub>
+    </td>
+    <td width="25%">
       <a href="https://assay.software">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/assay.png" alt="Assay"/>
       </a>
       <b>Assay</b><br>
       <sub>COBOL documentation generator - 5-pass AI analysis pipeline</sub>
     </td>
+  </tr>
+  <tr>
     <td width="25%">
       <a href="https://brightclause.com">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/brightclause.png" alt="BrightClause"/>
@@ -84,8 +93,6 @@ Full-stack developer building practical tools across health tech, fin tech, educ
       <b>BrightClause</b><br>
       <sub>AI contract analysis for M&amp;A due diligence</sub>
     </td>
-  </tr>
-  <tr>
     <td width="25%">
       <a href="https://chlann.com">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/chlann.png" alt="Chlann"/>
@@ -106,11 +113,6 @@ Full-stack developer building practical tools across health tech, fin tech, educ
       </a>
       <b>PortPilot</b><br>
       <sub>Localhost port manager for developers</sub>
-    </td>
-    <td width="25%">
-      <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/bloodclarity-thumb.png" alt="BloodClarity"/>
-      <b>BloodClarity</b><br>
-      <sub><em>Switched to Private - Under further development</em></sub>
     </td>
   </tr>
 </table>
