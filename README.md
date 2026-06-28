@@ -72,7 +72,7 @@ Full-stack developer building practical tools across health tech, fin tech, educ
     </td>
     <td width="25%">
       <a href="https://github.com/m4cd4r4/alight">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/alight/main/docs/screenshots/play-dark.png" alt="Alight"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/alight/main/docs/screenshots/hero.png" alt="Alight"/>
       </a>
       <b>Alight</b><br>
       <sub>Two-hands piano chord illustration - type a song, see exactly which keys to press</sub>
