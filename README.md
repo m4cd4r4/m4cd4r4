@@ -87,7 +87,7 @@ Full-stack developer building practical tools across health tech, fin tech, educ
   </tr>
   <tr>
     <td width="25%">
-      <a href="https://brightclause.com">
+      <a href="https://github.com/m4cd4r4/BrightClause">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/brightclause.png" alt="BrightClause"/>
       </a>
       <b>BrightClause</b><br>
@@ -114,6 +114,30 @@ Full-stack developer building practical tools across health tech, fin tech, educ
       <b>PortPilot</b><br>
       <sub>Localhost port manager for developers</sub>
     </td>
+  </tr>
+  <tr>
+    <td width="25%">
+      <a href="https://github.com/m4cd4r4/html.md">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/html-md.png" alt="html.md"/>
+      </a>
+      <b>html.md</b><br>
+      <sub>One dashboard for every markdown &amp; HTML doc across your projects - dedupes git worktrees</sub>
+    </td>
+    <td width="25%">
+      <a href="https://examworthy.com">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/examworthy.png" alt="Examworthy"/>
+      </a>
+      <b>Examworthy</b><br>
+      <sub>Certification exam prep that explains every answer - 47 certs, 13,300+ questions</sub>
+    </td>
+    <td width="25%">
+      <a href="https://github.com/m4cd4r4/cupla-focail">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/foclair.png" alt="Foclóir"/>
+      </a>
+      <b>Foclóir</b><br>
+      <sub>Irish-English dictionary - embeddable widget, REST API &amp; npm package</sub>
+    </td>
+    <td width="25%"></td>
   </tr>
 </table>
 
