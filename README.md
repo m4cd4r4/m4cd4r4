@@ -72,7 +72,7 @@ Full-stack developer building practical tools across health tech, fin tech, educ
     </td>
     <td width="25%">
       <a href="https://github.com/m4cd4r4/cosmos-collective-v2">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/cosmos-collective-v2/main/public/images/social-preview.png" alt="Cosmos Collective"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/cosmos-collective-v2/main/docs/readme/gravitational-lens-demo.gif" alt="Cosmos Collective"/>
       </a>
       <b>Cosmos Collective</b><br>
       <sub>Multi-spectrum astronomical data exploration - real NASA/ESA/STScI/CSIRO data, 3D solar system to 2,700+ Kepler worlds</sub>
