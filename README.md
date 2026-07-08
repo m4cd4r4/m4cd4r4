@@ -71,11 +71,11 @@ Full-stack developer building practical tools across health tech, fin tech, educ
       <sub>Forensic mortgage document analysis in under 60 seconds</sub>
     </td>
     <td width="25%">
-      <a href="https://github.com/m4cd4r4/alight">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/alight/main/docs/screenshots/hero.png" alt="Alight"/>
+      <a href="https://github.com/m4cd4r4/cosmos-collective-v2">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/cosmos-collective-v2/main/public/images/social-preview.png" alt="Cosmos Collective"/>
       </a>
-      <b>Alight</b><br>
-      <sub>Two-hands piano chord illustration - type a song, see exactly which keys to press</sub>
+      <b>Cosmos Collective</b><br>
+      <sub>Multi-spectrum astronomical data exploration - real NASA/ESA/STScI/CSIRO data, 3D solar system to 2,700+ Kepler worlds</sub>
     </td>
     <td width="25%">
       <a href="https://assay.software">
