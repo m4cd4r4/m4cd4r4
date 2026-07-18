@@ -55,6 +55,14 @@ def graphql(query, variables=None):
     try:
         with urllib.request.urlopen(req) as resp:
             result = json.loads(resp.read())
+            # GraphQL returns HTTP 200 with an errors array on partial/failed
+            # queries (e.g. RESOURCE_LIMITS_EXCEEDED). Surface it loudly instead
+            # of silently returning null data and shipping a wrong card.
+            if result.get("errors"):
+                messages = "; ".join(
+                    e.get("message", str(e)) for e in result["errors"]
+                )
+                print(f"GraphQL query error: {messages}")
             return result.get("data")
     except urllib.error.HTTPError as e:
         print(f"GraphQL error {e.code}")
@@ -66,19 +74,31 @@ def fetch_stats():
     user = api(f"users/{USERNAME}")
     year = datetime.now(timezone.utc).year
 
-    # --- GraphQL: contribution totals + repo counts + languages ---
-    gql = graphql("""
+    # --- GraphQL: split into cheap calls ---
+    # A single contributionsCollection block requesting many fields now exceeds
+    # GitHub's per-query resource budget for high-activity accounts: GitHub
+    # returns HTTP 200 with data.user=null and RESOURCE_LIMITS_EXCEEDED, which
+    # silently zeroed every graph stat (commits -> 0, langs -> public only) and
+    # dropped the grade. Fetching the commit total alone, and the repo/language
+    # block separately, keeps each query under the budget.
+    commits_data = graphql("""
     query($login: String!, $from: DateTime!, $to: DateTime!) {
       user(login: $login) {
         contributionsCollection(from: $from, to: $to) {
           totalCommitContributions
-          restrictedContributionsCount
-          totalPullRequestContributions
-          totalPullRequestReviewContributions
-          totalIssueContributions
         }
+      }
+    }
+    """, {
+        "login": USERNAME,
+        "from": f"{year}-01-01T00:00:00Z",
+        "to": f"{year}-12-31T23:59:59Z",
+    })
+
+    repos_data = graphql("""
+    query($login: String!) {
+      user(login: $login) {
         repositories(ownerAffiliations: [OWNER]) { totalCount }
-        publicRepos: repositories(ownerAffiliations: [OWNER], privacy: PUBLIC) { totalCount }
         privateRepos: repositories(ownerAffiliations: [OWNER], privacy: PRIVATE) { totalCount }
         allRepoLangs: repositories(
           ownerAffiliations: [OWNER]
@@ -89,11 +109,7 @@ def fetch_stats():
         }
       }
     }
-    """, {
-        "login": USERNAME,
-        "from": f"{year}-01-01T00:00:00Z",
-        "to": f"{year}-12-31T23:59:59Z",
-    })
+    """, {"login": USERNAME})
 
     has_private = False
     restricted_count = 0
@@ -105,18 +121,18 @@ def fetch_stats():
     private_repos = 0
     all_langs = {}
 
-    if gql and gql.get("user"):
-        cc = gql["user"]["contributionsCollection"]
-        graph_commits = cc["totalCommitContributions"]
-        restricted_count = cc["restrictedContributionsCount"]
-        graph_prs = cc["totalPullRequestContributions"]
-        graph_issues = cc["totalIssueContributions"]
-        graph_reviews = cc["totalPullRequestReviewContributions"]
-        total_repos = gql["user"]["repositories"]["totalCount"]
-        private_repos = gql["user"]["privateRepos"]["totalCount"]
+    if commits_data and commits_data.get("user"):
+        graph_commits = commits_data["user"]["contributionsCollection"][
+            "totalCommitContributions"
+        ]
+
+    if repos_data and repos_data.get("user"):
+        ru = repos_data["user"]
+        total_repos = ru["repositories"]["totalCount"]
+        private_repos = ru["privateRepos"]["totalCount"]
         has_private = private_repos > 0
 
-        for node in gql["user"]["allRepoLangs"]["nodes"]:
+        for node in ru["allRepoLangs"]["nodes"]:
             lang = node.get("primaryLanguage")
             if lang and lang.get("name"):
                 all_langs[lang["name"]] = all_langs.get(lang["name"], 0) + 1
