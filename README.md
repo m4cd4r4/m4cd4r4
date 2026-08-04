@@ -39,6 +39,7 @@ Full-stack developer building practical tools across health tech, fin tech, educ
 [![ifme](https://img.shields.io/badge/ifmeorg%2Fifme-%232402-2ea44f?style=flat&logo=github)](https://github.com/ifmeorg/ifme/pull/2402)
 [![buildspace](https://img.shields.io/badge/buildspace%2Fprojects-%23286-2ea44f?style=flat&logo=github)](https://github.com/buildspace/buildspace-projects/pull/286)
 [![lightning](https://img.shields.io/badge/OpenFn%2Flightning-%234590-2ea44f?style=flat&logo=github)](https://github.com/OpenFn/lightning/pull/4590)
+[![lightning](https://img.shields.io/badge/OpenFn%2Flightning-%234592-2ea44f?style=flat&logo=github)](https://github.com/OpenFn/lightning/pull/4592)
 
 **Under review**
 
@@ -46,7 +47,6 @@ Full-stack developer building practical tools across health tech, fin tech, educ
 [![scipy](https://img.shields.io/badge/scipy-%2324872-dfb317?style=flat&logo=github)](https://github.com/scipy/scipy/pull/24872)
 [![astroplan](https://img.shields.io/badge/astroplan-%23636-dfb317?style=flat&logo=github)](https://github.com/astropy/astroplan/pull/636)
 [![lightning](https://img.shields.io/badge/OpenFn%2Flightning-%234591-dfb317?style=flat&logo=github)](https://github.com/OpenFn/lightning/pull/4591)
-[![lightning](https://img.shields.io/badge/OpenFn%2Flightning-%234592-dfb317?style=flat&logo=github)](https://github.com/OpenFn/lightning/pull/4592)
 [![lh-ehr](https://img.shields.io/badge/LibreHealthIO%2Flh--ehr-%231698-dfb317?style=flat&logo=github)](https://github.com/LibreHealthIO/lh-ehr/pull/1698)
 [![scipy](https://img.shields.io/badge/scipy-%2325122-dfb317?style=flat&logo=github)](https://github.com/scipy/scipy/pull/25122)
 
