@@ -86,7 +86,7 @@ Full-stack developer building practical tools across health tech, fin tech, educ
   </tr>
   <tr>
     <td width="25%">
-      <a href="https://github.com/m4cd4r4/PortPilot">
+      <a href="https://m4cd4r4.github.io/PortPilot/">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/portpilot.png" alt="PortPilot"/>
       </a>
       <b>PortPilot</b><br>
