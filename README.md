@@ -57,7 +57,7 @@ Full-stack developer building practical tools across health tech, fin tech, educ
   <tr>
     <td width="25%">
       <a href="https://azureprep.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/azureprep.png" alt="AzurePrep"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/azureprep.png" alt="AzurePrep"/>
       </a>
       <b>AzurePrep</b><br>
       <sub>Azure &amp; GitHub cert practice - 40 certs, ~18,000 audited questions, SM-2 spaced repetition</sub>
@@ -71,14 +71,14 @@ Full-stack developer building practical tools across health tech, fin tech, educ
     </td>
     <td width="25%">
       <a href="https://chlann.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/chlann.png" alt="Chlann"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/chlann.png" alt="Chlann"/>
       </a>
       <b>Chlann</b><br>
       <sub>Bilingual Irish/English, E2E-encrypted family messaging (Signal Protocol)</sub>
     </td>
     <td width="25%">
       <a href="https://replaceable.com.au">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/replaceable.png" alt="Replaceable"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/replaceable.png" alt="Replaceable"/>
       </a>
       <b>Replaceable</b><br>
       <sub>SaaS-stack teardown - same-day keep/layer/kill verdict with fixed-fee custom connectors to replace what dies</sub>
@@ -87,7 +87,7 @@ Full-stack developer building practical tools across health tech, fin tech, educ
   <tr>
     <td width="25%">
       <a href="https://github.com/m4cd4r4/PortPilot">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/portpilot.png" alt="PortPilot"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/portpilot.png" alt="PortPilot"/>
       </a>
       <b>PortPilot</b><br>
       <sub>Localhost port manager for developers</sub>
