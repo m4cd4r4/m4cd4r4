@@ -4,7 +4,6 @@ Full-stack developer building practical tools across health tech, fin tech, educ
 
 [![Email](https://img.shields.io/badge/-macdara@solaisoft.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:macdara@solaisoft@gmail.com)
 [![Location](https://img.shields.io/badge/-Perth,%20WA-blue?style=flat&logo=google-maps&logoColor=white)](https://github.com/m4cd4r4)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-8B4513?style=flat&logo=github&logoColor=white)](https://m4cd4r4.github.io)
 
 ---
 
@@ -64,34 +63,11 @@ Full-stack developer building practical tools across health tech, fin tech, educ
       <sub>Azure &amp; GitHub cert practice - 40 certs, ~18,000 audited questions, SM-2 spaced repetition</sub>
     </td>
     <td width="25%">
-      <a href="https://trutina.com.au">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/trutina.png" alt="Trutina"/>
-      </a>
-      <b>Trutina</b><br>
-      <sub>Forensic mortgage document analysis in under 60 seconds</sub>
-    </td>
-    <td width="25%">
       <a href="https://github.com/m4cd4r4/cosmos-collective-v2">
         <img src="https://raw.githubusercontent.com/m4cd4r4/cosmos-collective-v2/main/docs/readme/gravitational-lens-demo.gif" alt="Cosmos Collective"/>
       </a>
       <b>Cosmos Collective</b><br>
       <sub>Multi-spectrum astronomical data exploration - real NASA/ESA/STScI/CSIRO data, 3D solar system to 2,700+ Kepler worlds</sub>
-    </td>
-    <td width="25%">
-      <a href="https://assay.software">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/assay.png" alt="Assay"/>
-      </a>
-      <b>Assay</b><br>
-      <sub>COBOL documentation generator - 5-pass AI analysis pipeline</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%">
-      <a href="https://github.com/m4cd4r4/BrightClause">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/brightclause.png" alt="BrightClause"/>
-      </a>
-      <b>BrightClause</b><br>
-      <sub>AI contract analysis for M&amp;A due diligence</sub>
     </td>
     <td width="25%">
       <a href="https://chlann.com">
@@ -107,15 +83,15 @@ Full-stack developer building practical tools across health tech, fin tech, educ
       <b>Replaceable</b><br>
       <sub>SaaS-stack teardown - same-day keep/layer/kill verdict with fixed-fee custom connectors to replace what dies</sub>
     </td>
+  </tr>
+  <tr>
     <td width="25%">
-      <a href="https://m4cd4r4.github.io/PortPilot/">
+      <a href="https://github.com/m4cd4r4/PortPilot">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4.github.io/main/images/portpilot.png" alt="PortPilot"/>
       </a>
       <b>PortPilot</b><br>
       <sub>Localhost port manager for developers</sub>
     </td>
-  </tr>
-  <tr>
     <td width="25%">
       <a href="https://github.com/m4cd4r4/html.md">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/html-md.png" alt="html.md"/>
@@ -137,11 +113,8 @@ Full-stack developer building practical tools across health tech, fin tech, educ
       <b>Foclóir</b><br>
       <sub>Irish-English dictionary - embeddable widget, REST API &amp; npm package</sub>
     </td>
-    <td width="25%"></td>
   </tr>
 </table>
-
-**[See all projects on my portfolio &rarr;](https://m4cd4r4.github.io)**
 
 ---
 
