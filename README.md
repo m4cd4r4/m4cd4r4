@@ -39,12 +39,12 @@ Full-stack developer building practical tools across health tech, fin tech, educ
 [![buildspace](https://img.shields.io/badge/buildspace%2Fprojects-%23286-2ea44f?style=flat&logo=github)](https://github.com/buildspace/buildspace-projects/pull/286)
 [![lightning](https://img.shields.io/badge/OpenFn%2Flightning-%234590-2ea44f?style=flat&logo=github)](https://github.com/OpenFn/lightning/pull/4590)
 [![lightning](https://img.shields.io/badge/OpenFn%2Flightning-%234592-2ea44f?style=flat&logo=github)](https://github.com/OpenFn/lightning/pull/4592)
+[![astroplan](https://img.shields.io/badge/astroplan-%23636-2ea44f?style=flat&logo=github)](https://github.com/astropy/astroplan/pull/636)
 
 **Under review**
 
 [![claude-code](https://img.shields.io/badge/anthropics%2Fclaude--code-%2341453-dfb317?style=flat&logo=github)](https://github.com/anthropics/claude-code/pull/41453)
 [![scipy](https://img.shields.io/badge/scipy-%2324872-dfb317?style=flat&logo=github)](https://github.com/scipy/scipy/pull/24872)
-[![astroplan](https://img.shields.io/badge/astroplan-%23636-dfb317?style=flat&logo=github)](https://github.com/astropy/astroplan/pull/636)
 [![lightning](https://img.shields.io/badge/OpenFn%2Flightning-%234591-dfb317?style=flat&logo=github)](https://github.com/OpenFn/lightning/pull/4591)
 [![lh-ehr](https://img.shields.io/badge/LibreHealthIO%2Flh--ehr-%231698-dfb317?style=flat&logo=github)](https://github.com/LibreHealthIO/lh-ehr/pull/1698)
 [![scipy](https://img.shields.io/badge/scipy-%2325122-dfb317?style=flat&logo=github)](https://github.com/scipy/scipy/pull/25122)
