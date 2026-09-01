@@ -56,63 +56,72 @@ Web design, SEO and AI engineering for small businesses. Squarespace, WordPress,
 
 <table>
   <tr>
-    <td width="25%">
-      <a href="https://azureprep.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/azureprep.png" alt="AzurePrep"/>
+    <td width="33%">
+      <a href="https://stationstreetfit.com.au">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/ssf.jpg" alt="Station Street Fitness"/>
       </a>
-      <b>AzurePrep</b><br>
-      <sub>Azure &amp; GitHub cert practice - 40 certs, ~18,000 audited questions, SM-2 spaced repetition</sub>
+      <b>Station Street Fitness</b><br>
+      <sub>Client site - WordPress rebuilt in Next.js, Google Analytics 4, Search Console and ongoing SEO</sub>
     </td>
-    <td width="25%">
-      <a href="https://github.com/m4cd4r4/cosmos-collective-v2">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/cosmos-collective-v2/main/docs/readme/gravitational-lens-demo.gif" alt="Cosmos Collective"/>
+    <td width="33%">
+      <a href="https://www.theengineroomfitness.ie">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/erf.jpg" alt="The Engine Room Fitness"/>
       </a>
-      <b>Cosmos Collective</b><br>
-      <sub>Multi-spectrum astronomical data exploration - real NASA/ESA/STScI/CSIRO data, 3D solar system to 2,700+ Kepler worlds</sub>
+      <b>The Engine Room Fitness</b><br>
+      <sub>Client site - Squarespace 7.1 redesign and search visibility</sub>
     </td>
-    <td width="25%">
-      <a href="https://chlann.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/chlann.png" alt="Chlann"/>
+    <td width="33%">
+      <a href="https://solaisoft.com/showcase/glare/index.html">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/glare.jpg" alt="GLARE"/>
       </a>
-      <b>Chlann</b><br>
-      <sub>Bilingual Irish/English, E2E-encrypted family messaging (Signal Protocol)</sub>
-    </td>
-    <td width="25%">
-      <a href="https://replaceable.com.au">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/replaceable.png" alt="Replaceable"/>
-      </a>
-      <b>Replaceable</b><br>
-      <sub>SaaS-stack teardown - same-day keep/layer/kill verdict with fixed-fee custom connectors to replace what dies</sub>
+      <b>GLARE</b><br>
+      <sub>Concept streetwear drop website</sub>
     </td>
   </tr>
   <tr>
-    <td width="25%">
-      <a href="https://m4cd4r4.github.io/PortPilot/">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/portpilot.png" alt="PortPilot"/>
+    <td width="33%">
+      <a href="https://solaisoft.com/showcase/silvereye/index.html">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/silvereye.jpg" alt="Silvereye"/>
       </a>
-      <b>PortPilot</b><br>
-      <sub>Localhost port manager for developers</sub>
+      <b>Silvereye</b><br>
+      <sub>Concept bridal atelier website</sub>
     </td>
-    <td width="25%">
-      <a href="https://github.com/m4cd4r4/html.md">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/html-md.png" alt="html.md"/>
+    <td width="33%">
+      <a href="https://solaisoft.com/showcase/dogbox/index.html">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/dogbox.jpg" alt="DOGBOX"/>
       </a>
-      <b>html.md</b><br>
-      <sub>One dashboard for every markdown &amp; HTML doc across your projects - dedupes git worktrees</sub>
+      <b>DOGBOX</b><br>
+      <sub>Concept retail and ecommerce website</sub>
     </td>
-    <td width="25%">
-      <a href="https://examworthy.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/examworthy.png" alt="Examworthy"/>
+    <td width="33%">
+      <a href="https://solaisoft.com/showcase/understory/index.html">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/understory.jpg" alt="Understory"/>
       </a>
-      <b>Examworthy</b><br>
-      <sub>Certification exam prep that explains every answer - 47 certs, 13,300+ questions</sub>
+      <b>Understory</b><br>
+      <sub>Concept arborist website</sub>
     </td>
-    <td width="25%">
-      <a href="https://github.com/m4cd4r4/cupla-focail">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/foclair.png" alt="Foclóir"/>
+  </tr>
+  <tr>
+    <td width="33%">
+      <a href="https://trutina.com.au">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/trutina.gif" alt="Trutina"/>
       </a>
-      <b>Foclóir</b><br>
-      <sub>Irish-English dictionary - embeddable widget, REST API &amp; npm package</sub>
+      <b>Trutina</b><br>
+      <sub>AI-powered mortgage document fraud detection for Australian lenders</sub>
+    </td>
+    <td width="33%">
+      <a href="https://brightclause.com">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/brightclause.gif" alt="BrightClause"/>
+      </a>
+      <b>BrightClause</b><br>
+      <sub>AI contract intelligence for M&amp;A due diligence - clause extraction, risk scoring, entity knowledge graph</sub>
+    </td>
+    <td width="33%">
+      <a href="https://github.com/m4cd4r4/claude-echoes">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/claude-echoes/main/assets/hero.png" alt="claude-echoes"/>
+      </a>
+      <b>claude-echoes</b><br>
+      <sub>Verbatim semantic memory across Claude Code sessions - pgvector + local Ollama embeddings</sub>
     </td>
   </tr>
 </table>
