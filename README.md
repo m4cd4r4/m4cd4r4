@@ -2,6 +2,7 @@
 
 Web design, SEO and AI engineering for small businesses. Squarespace, WordPress, Claude, RAG. Perth, Western Australia.
 
+[![Solaisoft](https://img.shields.io/badge/-solaisoft.com-16181c?style=flat&logo=googlechrome&logoColor=white)](https://solaisoft.com)
 [![Email](https://img.shields.io/badge/-hello@solaisoft.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hello@solaisoft.com)
 [![Location](https://img.shields.io/badge/-Perth,%20WA-blue?style=flat&logo=google-maps&logoColor=white)](https://github.com/m4cd4r4)
 
@@ -15,6 +16,8 @@ Web design, SEO and AI engineering for small businesses. Squarespace, WordPress,
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
