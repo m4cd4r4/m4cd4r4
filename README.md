@@ -5,6 +5,7 @@ Web design, SEO and AI engineering for small businesses. Squarespace, WordPress,
 [![Solaisoft](https://img.shields.io/badge/-solaisoft.com-16181c?style=flat&logo=googlechrome&logoColor=white)](https://solaisoft.com)
 [![Email](https://img.shields.io/badge/-hello@solaisoft.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hello@solaisoft.com)
 [![Location](https://img.shields.io/badge/-Perth,%20WA-blue?style=flat&logo=google-maps&logoColor=white)](https://github.com/m4cd4r4)
+[![LinkedIn](https://img.shields.io/badge/-linkedin.com%2Fin%2Fmacdara--omurchu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macdara-omurchu/)
 
 ---
 
