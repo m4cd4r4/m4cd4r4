@@ -1,6 +1,6 @@
 ## Hi, I'm Macdara
 
-Web design, SEO and AI engineering for small businesses. Perth, Western Australia.
+Web design, SEO and AI engineering. Perth, Western Australia.
 
 [![Solaisoft](https://img.shields.io/badge/-solaisoft.com-16181c?style=flat&logo=googlechrome&logoColor=white)](https://solaisoft.com)
 [![Email](https://img.shields.io/badge/-hello@solaisoft.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hello@solaisoft.com)
