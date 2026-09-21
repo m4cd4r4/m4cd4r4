@@ -13,17 +13,16 @@ I build apps, websites and automations. Perth, Western Australia.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=claude&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 
 ---
 
@@ -61,51 +60,19 @@ I build apps, websites and automations. Perth, Western Australia.
 <table>
   <tr>
     <td width="33%">
-      <a href="https://stationstreetfit.com.au">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/ssf.jpg" alt="Station Street Fitness"/>
+      <a href="https://azureprep.com">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/azureprep.png" alt="AzurePrep"/>
       </a>
-      <b>Station Street Fitness</b><br>
-      <sub>Client site - WordPress rebuilt in Next.js, Google Analytics 4, Search Console and ongoing SEO</sub>
+      <b>AzurePrep</b><br>
+      <sub>Microsoft certification practice with paying users - audited question banks, spaced repetition, Stripe, serverless Azure</sub>
     </td>
     <td width="33%">
-      <a href="https://www.theengineroomfitness.ie">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/erf.jpg" alt="The Engine Room Fitness"/>
+      <a href="https://examworthy.com">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/examworthy.png" alt="ExamWorthy"/>
       </a>
-      <b>The Engine Room Fitness</b><br>
-      <sub>Client site - Squarespace 7.1 redesign and search visibility</sub>
+      <b>ExamWorthy</b><br>
+      <sub>Certification exam prep across vendors - per-domain readiness scoring, spaced repetition, timed mock exams</sub>
     </td>
-    <td width="33%">
-      <a href="https://solaisoft.com/showcase/glare/index.html">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/glare.jpg" alt="GLARE"/>
-      </a>
-      <b>GLARE</b><br>
-      <sub>Concept streetwear drop website</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%">
-      <a href="https://solaisoft.com/showcase/silvereye/index.html">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/silvereye.jpg" alt="Silvereye"/>
-      </a>
-      <b>Silvereye</b><br>
-      <sub>Concept bridal atelier website</sub>
-    </td>
-    <td width="33%">
-      <a href="https://solaisoft.com/showcase/dogbox/index.html">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/dogbox.jpg" alt="DOGBOX"/>
-      </a>
-      <b>DOGBOX</b><br>
-      <sub>Concept retail and ecommerce website</sub>
-    </td>
-    <td width="33%">
-      <a href="https://solaisoft.com/showcase/understory/index.html">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/understory.jpg" alt="Understory"/>
-      </a>
-      <b>Understory</b><br>
-      <sub>Concept arborist website</sub>
-    </td>
-  </tr>
-  <tr>
     <td width="33%">
       <a href="https://trutina.com.au">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/trutina.gif" alt="Trutina"/>
@@ -113,6 +80,8 @@ I build apps, websites and automations. Perth, Western Australia.
       <b>Trutina</b><br>
       <sub>AI-powered mortgage document fraud detection for Australian lenders</sub>
     </td>
+  </tr>
+  <tr>
     <td width="33%">
       <a href="https://brightclause.com">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/brightclause.gif" alt="BrightClause"/>
@@ -126,6 +95,13 @@ I build apps, websites and automations. Perth, Western Australia.
       </a>
       <b>claude-echoes</b><br>
       <sub>Verbatim semantic memory across Claude Code sessions - pgvector + local Ollama embeddings</sub>
+    </td>
+    <td width="33%">
+      <a href="https://stationstreetfit.com.au">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/ssf.jpg" alt="Station Street Fitness"/>
+      </a>
+      <b>Station Street Fitness</b><br>
+      <sub>Client build - custom Next.js site, self-hosted booking, and an AI pipeline that applies the owner's change requests after one human approval</sub>
     </td>
   </tr>
 </table>
