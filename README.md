@@ -67,12 +67,21 @@ I build apps, websites and automations. Perth, Western Australia.
       <sub>Microsoft certification practice with paying users - audited question banks, spaced repetition, Stripe, serverless Azure</sub>
     </td>
     <td width="33%">
+      <a href="https://github.com/m4cd4r4/clear-resume">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/clear-resume.png" alt="clear-resume"/>
+      </a>
+      <b>clear-resume</b><br>
+      <sub>Claude Code plugin + VS Code extension - saves the goal, next step and decisions before /clear, and the fresh session loads them</sub>
+    </td>
+    <td width="33%">
       <a href="https://examworthy.com">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/examworthy.png" alt="ExamWorthy"/>
       </a>
       <b>ExamWorthy</b><br>
       <sub>Certification exam prep across vendors - per-domain readiness scoring, spaced repetition, timed mock exams</sub>
     </td>
+  </tr>
+  <tr>
     <td width="33%">
       <a href="https://trutina.com.au">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/trutina.gif" alt="Trutina"/>
@@ -80,8 +89,6 @@ I build apps, websites and automations. Perth, Western Australia.
       <b>Trutina</b><br>
       <sub>AI-powered mortgage document fraud detection for Australian lenders</sub>
     </td>
-  </tr>
-  <tr>
     <td width="33%">
       <a href="https://brightclause.com">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/brightclause.gif" alt="BrightClause"/>
@@ -96,6 +103,8 @@ I build apps, websites and automations. Perth, Western Australia.
       <b>claude-echoes</b><br>
       <sub>Verbatim semantic memory across Claude Code sessions - pgvector + local Ollama embeddings</sub>
     </td>
+  </tr>
+  <tr>
     <td width="33%">
       <a href="https://stationstreetfit.com.au">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/ssf.jpg" alt="Station Street Fitness"/>
@@ -103,8 +112,6 @@ I build apps, websites and automations. Perth, Western Australia.
       <b>Station Street Fitness</b><br>
       <sub>Client build - custom Next.js site, self-hosted booking, and an AI pipeline that applies the owner's change requests after one human approval</sub>
     </td>
-  </tr>
-  <tr>
     <td width="33%">
       <a href="https://github.com/m4cd4r4/PortPilot">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/portpilot.png" alt="PortPilot"/>
