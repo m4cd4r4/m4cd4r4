@@ -75,7 +75,7 @@ I build apps, websites and automations. Perth, Western Australia.
     </td>
     <td width="33%">
       <a href="https://examworthy.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/examworthy.png" alt="ExamWorthy"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/examworthy-hero.png" alt="ExamWorthy"/>
       </a>
       <b>ExamWorthy</b><br>
       <sub>Certification exam prep across vendors - per-domain readiness scoring, spaced repetition, timed mock exams</sub>
