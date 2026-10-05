@@ -71,7 +71,7 @@ I build apps, websites and automations. Perth, Western Australia.
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/clear-resume.png" alt="clear-resume"/>
       </a>
       <b>clear-resume</b><br>
-      <sub>Claude Code plugin + VS Code extension - hands long work to fresh sessions via short handovers. Measured run: 91.0M tokens vs ~565.6M in one long chat</sub>
+      <sub>Claude Code plugin + Claude Code mod + VS Code extension - the relay mod clears and continues long work in fresh sessions by itself. Measured run: 91.0M tokens vs ~565.6M in one long chat</sub>
     </td>
     <td width="33%">
       <a href="https://examworthy.com">
