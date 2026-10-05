@@ -83,28 +83,12 @@ I build apps, websites and automations. Perth, Western Australia.
   </tr>
   <tr>
     <td width="33%">
-      <a href="https://trutina.com.au">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/trutina.gif" alt="Trutina"/>
-      </a>
-      <b>Trutina</b><br>
-      <sub>AI-powered mortgage document fraud detection for Australian lenders</sub>
-    </td>
-    <td width="33%">
-      <a href="https://brightclause.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/brightclause.gif" alt="BrightClause"/>
-      </a>
-      <b>BrightClause</b><br>
-      <sub>AI contract intelligence for M&amp;A due diligence - clause extraction, risk scoring, entity knowledge graph</sub>
-    </td>
-    <td width="33%">
       <a href="https://github.com/m4cd4r4/claude-echoes">
         <img src="https://raw.githubusercontent.com/m4cd4r4/claude-echoes/main/assets/hero.png" alt="claude-echoes"/>
       </a>
       <b>claude-echoes</b><br>
       <sub>Verbatim semantic memory across Claude Code sessions - pgvector + local Ollama embeddings</sub>
     </td>
-  </tr>
-  <tr>
     <td width="33%">
       <a href="https://stationstreetfit.com.au">
         <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/ssf.jpg" alt="Station Street Fitness"/>
