@@ -61,7 +61,7 @@ I build apps, websites and automations. Perth, Western Australia.
   <tr>
     <td width="33%">
       <a href="https://azureprep.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/azureprep.png" alt="AzurePrep"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/azureprep.gif" alt="AzurePrep"/>
       </a>
       <b>AzurePrep</b><br>
       <sub>Microsoft certification practice with paying users - audited question banks, spaced repetition, Stripe, serverless Azure</sub>
