@@ -97,11 +97,11 @@ I build apps, websites and automations. Perth, Western Australia.
       <sub>Client build - custom Next.js site, self-hosted booking, and an AI pipeline that applies the owner's change requests after one human approval</sub>
     </td>
     <td width="33%">
-      <a href="https://github.com/m4cd4r4/PortPilot">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/portpilot.png" alt="PortPilot"/>
+      <a href="https://m4cd4r4.github.io/PortPilot/">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/portpilot-340.png" alt="PortPilot"/>
       </a>
       <b>PortPilot</b><br>
-      <sub>Localhost port manager for Windows and Linux - every local dev server in one dashboard, git branches nested per repo, MCP server + VS Code extension</sub>
+      <sub>You and Claude Code, one view of what's running - dev servers, ports and crashes on Windows and Linux, with a Claude Code plugin, MCP server and VS Code extension</sub>
     </td>
   </tr>
 </table>
