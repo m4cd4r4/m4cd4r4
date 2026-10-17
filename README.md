@@ -98,7 +98,7 @@ I connect business systems and put AI to work inside them. Perth, Western Austra
     </td>
     <td width="33%">
       <a href="https://m4cd4r4.github.io/PortPilot/">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/portpilot-340.png" alt="PortPilot"/>
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/portpilot-v4.png" alt="PortPilot"/>
       </a>
       <b>PortPilot</b><br>
       <sub>You and Claude Code, one view of what's running - dev servers, ports and crashes on Windows and Linux, with a Claude Code plugin, MCP server and VS Code extension</sub>
