@@ -104,6 +104,24 @@ I connect business systems and put AI to work inside them. Perth, Western Austra
       <sub>See every dev server, and who started it - ports and crashes on Windows and Linux, with an MCP server for any AI assistant, a Claude Code plugin and a VS Code extension</sub>
     </td>
   </tr>
+  <tr>
+    <td width="33%">
+      <a href="https://cosmos-collective.com.au">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cosmos-collective.gif" alt="Cosmos Collective"/>
+      </a>
+      <b>Cosmos Collective</b><br>
+      <sub>Real astronomical data, made to explore - a 3D solar system, the Solar Gravitational Lens mission walkthrough, JWST, Kepler exoplanets and live satellites. Next.js, Three.js, data from NASA, ESA, STScI, NOAA and CSIRO</sub>
+    </td>
+    <td width="33%">
+      <a href="https://solaisoft.com">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/solaisoft.gif" alt="Solaisoft"/>
+      </a>
+      <b>Solaisoft</b><br>
+      <sub>My studio site - websites for Perth businesses, then work on how they show up in Google, Maps and AI answers. One person, start to finish</sub>
+    </td>
+    <!-- 9th featured slot: Macdara is choosing the project -->
+    <td width="33%"></td>
+  </tr>
 </table>
 
 ---
