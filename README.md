@@ -57,22 +57,18 @@ I connect business systems and put AI to work inside them. Perth, Western Austra
 
 ### Featured Projects
 
-<a href="https://azureprep.com"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/azureprep.gif" alt="AzurePrep" width="420" /></a><br><b><a href="https://azureprep.com">AzurePrep</a></b><br>Microsoft certification practice - audited question banks, spaced repetition, Stripe, serverless Azure<br><br>
+<p>
+<a href="https://azureprep.com"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/azureprep.gif" alt="AzurePrep" title="AzurePrep" width="280"/></a> <a href="https://github.com/m4cd4r4/clear-resume"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/clear-resume.png" alt="clear-resume" title="clear-resume" width="280"/></a> <a href="https://examworthy.com"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/examworthy-hero-wide.png" alt="ExamWorthy" title="ExamWorthy" width="280"/></a> <a href="https://statewiseexams.com"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/statewise.png" alt="Statewise" title="Statewise" width="280"/></a> <a href="https://stationstreetfit.com.au"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/ssf.jpg" alt="Station Street Fitness" title="Station Street Fitness" width="280"/></a> <a href="https://m4cd4r4.github.io/PortPilot/"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/portpilot-agnostic.png" alt="PortPilot" title="PortPilot" width="280"/></a> <a href="https://cosmos-collective.com.au"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cosmos-collective.gif" alt="Cosmos Collective" title="Cosmos Collective" width="280"/></a> <a href="https://solaisoft.com"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/solaisoft.gif" alt="Solaisoft" title="Solaisoft" width="280"/></a>
+</p>
 
-<a href="https://github.com/m4cd4r4/clear-resume"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/clear-resume.png" alt="clear-resume" width="420" /></a><br><b><a href="https://github.com/m4cd4r4/clear-resume">clear-resume</a></b><br>Claude Code plugin + Claude Code mod + VS Code extension - the relay mod clears and continues long work in fresh sessions by itself. The handover is about 780 tokens against 102,088 freed by a typical /clear (my own 104 clears, medians)<br><br>
-
-<a href="https://examworthy.com"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/examworthy-hero-wide.png" alt="ExamWorthy" width="420" /></a><br><b><a href="https://examworthy.com">ExamWorthy</a></b><br>Certification exam prep across vendors - per-domain readiness scoring, spaced repetition, timed mock exams<br><br>
-
-<a href="https://statewiseexams.com"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/statewise.png" alt="Statewise" width="420" /></a><br><b><a href="https://statewiseexams.com">Statewise</a></b><br>Exam prep for US insurance licensing - state-specific practice questions, flashcards, study guides and a timed exam simulator, with Stripe checkout<br><br>
-
-<a href="https://stationstreetfit.com.au"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/ssf.jpg" alt="Station Street Fitness" width="420" /></a><br><b><a href="https://stationstreetfit.com.au">Station Street Fitness</a></b><br>Client build - custom Next.js site, self-hosted booking, and an AI pipeline that applies the owner's change requests after one human approval<br><br>
-
-<a href="https://m4cd4r4.github.io/PortPilot/"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/portpilot-agnostic.png" alt="PortPilot" width="420" /></a><br><b><a href="https://m4cd4r4.github.io/PortPilot/">PortPilot</a></b><br>See every dev server, and who started it - ports and crashes on Windows and Linux, with an MCP server for any AI assistant, a Claude Code plugin and a VS Code extension<br><br>
-
-<a href="https://cosmos-collective.com.au"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cosmos-collective.gif" alt="Cosmos Collective" width="420" /></a><br><b><a href="https://cosmos-collective.com.au">Cosmos Collective</a></b><br>Real astronomical data, made to explore - a 3D solar system, the Solar Gravitational Lens mission walkthrough, JWST, Kepler exoplanets and live satellites. Next.js, Three.js, data from NASA, ESA, STScI, NOAA and CSIRO<br><br>
-
-<a href="https://solaisoft.com"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/solaisoft.gif" alt="Solaisoft" width="420" /></a><br><b><a href="https://solaisoft.com">Solaisoft</a></b><br>My studio site - websites for Perth businesses, then work on how they show up in Google, Maps and AI answers. One person, start to finish<br><br>
-
+- **[AzurePrep](https://azureprep.com)** - Microsoft certification practice - audited question banks, spaced repetition, Stripe, serverless Azure
+- **[clear-resume](https://github.com/m4cd4r4/clear-resume)** - Claude Code plugin + Claude Code mod + VS Code extension - the relay mod clears and continues long work in fresh sessions by itself. The handover is about 780 tokens against 102,088 freed by a typical /clear (my own 104 clears, medians)
+- **[ExamWorthy](https://examworthy.com)** - Certification exam prep across vendors - per-domain readiness scoring, spaced repetition, timed mock exams
+- **[Statewise](https://statewiseexams.com)** - Exam prep for US insurance licensing - state-specific practice questions, flashcards, study guides and a timed exam simulator, with Stripe checkout
+- **[Station Street Fitness](https://stationstreetfit.com.au)** - Client build - custom Next.js site, self-hosted booking, and an AI pipeline that applies the owner's change requests after one human approval
+- **[PortPilot](https://m4cd4r4.github.io/PortPilot/)** - See every dev server, and who started it - ports and crashes on Windows and Linux, with an MCP server for any AI assistant, a Claude Code plugin and a VS Code extension
+- **[Cosmos Collective](https://cosmos-collective.com.au)** - Real astronomical data, made to explore - a 3D solar system, the Solar Gravitational Lens mission walkthrough, JWST, Kepler exoplanets and live satellites. Next.js, Three.js, data from NASA, ESA, STScI, NOAA and CSIRO
+- **[Solaisoft](https://solaisoft.com)** - My studio site - websites for Perth businesses, then work on how they show up in Google, Maps and AI answers. One person, start to finish
 
 ---
 
