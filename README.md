@@ -57,72 +57,22 @@ I connect business systems and put AI to work inside them. Perth, Western Austra
 
 ### Featured Projects
 
-<table>
-  <tr>
-    <td width="33%">
-      <a href="https://azureprep.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/azureprep.gif" alt="AzurePrep"/>
-      </a>
-      <b>AzurePrep</b><br>
-      <sub>Microsoft certification practice with paying users - audited question banks, spaced repetition, Stripe, serverless Azure</sub>
-    </td>
-    <td width="33%">
-      <a href="https://github.com/m4cd4r4/clear-resume">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/clear-resume.png" alt="clear-resume"/>
-      </a>
-      <b>clear-resume</b><br>
-      <sub>Claude Code plugin + Claude Code mod + VS Code extension - the relay mod clears and continues long work in fresh sessions by itself. The handover is about 780 tokens against 102,088 freed by a typical /clear (my own 104 clears, medians)</sub>
-    </td>
-    <td width="33%">
-      <a href="https://examworthy.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/examworthy-hero-wide.png" alt="ExamWorthy"/>
-      </a>
-      <b>ExamWorthy</b><br>
-      <sub>Certification exam prep across vendors - per-domain readiness scoring, spaced repetition, timed mock exams</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%">
-      <a href="https://statewiseexams.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/statewise.png" alt="Statewise"/>
-      </a>
-      <b>Statewise</b><br>
-      <sub>Exam prep for US insurance licensing - state-specific practice questions, flashcards, study guides and a timed exam simulator, with Stripe checkout</sub>
-    </td>
-    <td width="33%">
-      <a href="https://stationstreetfit.com.au">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/ssf.jpg" alt="Station Street Fitness"/>
-      </a>
-      <b>Station Street Fitness</b><br>
-      <sub>Client build - custom Next.js site, self-hosted booking, and an AI pipeline that applies the owner's change requests after one human approval</sub>
-    </td>
-    <td width="33%">
-      <a href="https://m4cd4r4.github.io/PortPilot/">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/portpilot-agnostic.png" alt="PortPilot"/>
-      </a>
-      <b>PortPilot</b><br>
-      <sub>See every dev server, and who started it - ports and crashes on Windows and Linux, with an MCP server for any AI assistant, a Claude Code plugin and a VS Code extension</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%">
-      <a href="https://cosmos-collective.com.au">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cosmos-collective.gif" alt="Cosmos Collective"/>
-      </a>
-      <b>Cosmos Collective</b><br>
-      <sub>Real astronomical data, made to explore - a 3D solar system, the Solar Gravitational Lens mission walkthrough, JWST, Kepler exoplanets and live satellites. Next.js, Three.js, data from NASA, ESA, STScI, NOAA and CSIRO</sub>
-    </td>
-    <td width="33%">
-      <a href="https://solaisoft.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/solaisoft.gif" alt="Solaisoft"/>
-      </a>
-      <b>Solaisoft</b><br>
-      <sub>My studio site - websites for Perth businesses, then work on how they show up in Google, Maps and AI answers. One person, start to finish</sub>
-    </td>
-    <!-- 9th featured slot: Macdara is choosing the project -->
-    <td width="33%"></td>
-  </tr>
-</table>
+<a href="https://azureprep.com"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/azureprep.gif" alt="AzurePrep" width="300" align="left" hspace="14" vspace="4"/></a><b><a href="https://azureprep.com">AzurePrep</a></b><br>Microsoft certification practice with paying users - audited question banks, spaced repetition, Stripe, serverless Azure<br clear="left"/>
+
+<a href="https://github.com/m4cd4r4/clear-resume"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/clear-resume.png" alt="clear-resume" width="300" align="left" hspace="14" vspace="4"/></a><b><a href="https://github.com/m4cd4r4/clear-resume">clear-resume</a></b><br>Claude Code plugin + Claude Code mod + VS Code extension - the relay mod clears and continues long work in fresh sessions by itself. The handover is about 780 tokens against 102,088 freed by a typical /clear (my own 104 clears, medians)<br clear="left"/>
+
+<a href="https://examworthy.com"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/examworthy-hero-wide.png" alt="ExamWorthy" width="300" align="left" hspace="14" vspace="4"/></a><b><a href="https://examworthy.com">ExamWorthy</a></b><br>Certification exam prep across vendors - per-domain readiness scoring, spaced repetition, timed mock exams<br clear="left"/>
+
+<a href="https://statewiseexams.com"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/statewise.png" alt="Statewise" width="300" align="left" hspace="14" vspace="4"/></a><b><a href="https://statewiseexams.com">Statewise</a></b><br>Exam prep for US insurance licensing - state-specific practice questions, flashcards, study guides and a timed exam simulator, with Stripe checkout<br clear="left"/>
+
+<a href="https://stationstreetfit.com.au"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/ssf.jpg" alt="Station Street Fitness" width="300" align="left" hspace="14" vspace="4"/></a><b><a href="https://stationstreetfit.com.au">Station Street Fitness</a></b><br>Client build - custom Next.js site, self-hosted booking, and an AI pipeline that applies the owner's change requests after one human approval<br clear="left"/>
+
+<a href="https://m4cd4r4.github.io/PortPilot/"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/portpilot-agnostic.png" alt="PortPilot" width="300" align="left" hspace="14" vspace="4"/></a><b><a href="https://m4cd4r4.github.io/PortPilot/">PortPilot</a></b><br>See every dev server, and who started it - ports and crashes on Windows and Linux, with an MCP server for any AI assistant, a Claude Code plugin and a VS Code extension<br clear="left"/>
+
+<a href="https://cosmos-collective.com.au"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cosmos-collective.gif" alt="Cosmos Collective" width="300" align="left" hspace="14" vspace="4"/></a><b><a href="https://cosmos-collective.com.au">Cosmos Collective</a></b><br>Real astronomical data, made to explore - a 3D solar system, the Solar Gravitational Lens mission walkthrough, JWST, Kepler exoplanets and live satellites. Next.js, Three.js, data from NASA, ESA, STScI, NOAA and CSIRO<br clear="left"/>
+
+<a href="https://solaisoft.com"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/solaisoft.gif" alt="Solaisoft" width="300" align="left" hspace="14" vspace="4"/></a><b><a href="https://solaisoft.com">Solaisoft</a></b><br>My studio site - websites for Perth businesses, then work on how they show up in Google, Maps and AI answers. One person, start to finish<br clear="left"/>
+
 
 ---
 
