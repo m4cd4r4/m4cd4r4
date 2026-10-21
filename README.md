@@ -57,7 +57,7 @@ I connect business systems and put AI to work inside them. Perth, Western Austra
 
 ### Featured Projects
 
-<a href="https://azureprep.com"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/azureprep.gif" alt="AzurePrep" width="420" /></a><br><b><a href="https://azureprep.com">AzurePrep</a></b><br>Microsoft certification practice with paying users - audited question banks, spaced repetition, Stripe, serverless Azure<br><br>
+<a href="https://azureprep.com"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/azureprep.gif" alt="AzurePrep" width="420" /></a><br><b><a href="https://azureprep.com">AzurePrep</a></b><br>Microsoft certification practice - audited question banks, spaced repetition, Stripe, serverless Azure<br><br>
 
 <a href="https://github.com/m4cd4r4/clear-resume"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/clear-resume.png" alt="clear-resume" width="420" /></a><br><b><a href="https://github.com/m4cd4r4/clear-resume">clear-resume</a></b><br>Claude Code plugin + Claude Code mod + VS Code extension - the relay mod clears and continues long work in fresh sessions by itself. The handover is about 780 tokens against 102,088 freed by a typical /clear (my own 104 clears, medians)<br><br>
 
