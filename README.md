@@ -67,11 +67,11 @@ I connect business systems and put AI to work inside them. Perth, Western Austra
       <sub>Microsoft certification practice with paying users - audited question banks, spaced repetition, Stripe, serverless Azure</sub>
     </td>
     <td width="33%">
-      <a href="https://github.com/m4cd4r4/clear-resume">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/clear-resume.png" alt="clear-resume"/>
+      <a href="https://github.com/m4cd4r4/cornerman">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cornerman.png" alt="cornerman"/>
       </a>
-      <b>clear-resume</b><br>
-      <sub>Claude Code plugin + Claude Code mod + VS Code extension - the relay mod clears and continues long work in fresh sessions by itself. The handover is about 780 tokens against 102,088 freed by a typical /clear (my own 104 clears, medians)</sub>
+      <b>cornerman</b><br>
+      <sub>When a Claude Code chat gets long, Cornerman saves a handover, clears the chat and carries on by itself, up to the number of clears you set. Tables, lists, links and paths from the cleared chat stay one click away.</sub>
     </td>
     <td width="33%">
       <a href="https://examworthy.com">
