@@ -119,8 +119,13 @@ I connect business systems and put AI to work inside them. Perth, Western Austra
       <b>Solaisoft</b><br>
       <sub>My studio site - websites for Perth businesses, then work on how they show up in Google, Maps and AI answers. One person, start to finish</sub>
     </td>
-    <!-- 9th featured slot: Macdara is choosing the project -->
-    <td width="33%"></td>
+    <td width="33%">
+      <a href="https://github.com/m4cd4r4/questlog">
+        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/questlog.png" alt="Questlog"/>
+      </a>
+      <b>Questlog</b><br>
+      <sub>Questlog shows the repo, branch, plan and step of every Claude Code session you have open.</sub>
+    </td>
   </tr>
 </table>
 
