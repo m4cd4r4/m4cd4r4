@@ -60,72 +60,54 @@ I'm a developer in Perth. I build web apps in TypeScript, React and Node, and I 
 
 <table>
   <tr>
-    <td width="33%">
-      <a href="https://azureprep.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/azureprep.gif" alt="AzurePrep"/>
-      </a>
+    <td width="33%" valign="top">
+      <a href="https://azureprep.com"><img src="assets/azureprep-card.gif" width="100%" alt="AzurePrep"/></a><br>
       <b>AzurePrep</b><br>
-      <sub>Microsoft certification practice with paying users - audited question banks, spaced repetition, Stripe, serverless Azure</sub>
+      <sub>Microsoft exam practice with paying users</sub>
     </td>
-    <td width="33%">
-      <a href="https://github.com/m4cd4r4/cornerman">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cornerman.png" alt="cornerman"/>
-      </a>
-      <b>cornerman</b><br>
-      <sub>When a Claude Code chat gets long, Cornerman saves a handover, clears the chat and carries on by itself, up to the number of clears you set. Tables, lists, links and paths from the cleared chat stay one click away.</sub>
-    </td>
-    <td width="33%">
-      <a href="https://examworthy.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/examworthy-hero-wide.png" alt="ExamWorthy"/>
-      </a>
-      <b>ExamWorthy</b><br>
-      <sub>Certification exam prep across vendors - per-domain readiness scoring, spaced repetition, timed mock exams</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%">
-      <a href="https://statewiseexams.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/statewise.png" alt="Statewise"/>
-      </a>
-      <b>Statewise</b><br>
-      <sub>Exam prep for US insurance licensing - state-specific practice questions, flashcards, study guides and a timed exam simulator, with Stripe checkout</sub>
-    </td>
-    <td width="33%">
-      <a href="https://stationstreetfit.com.au">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/ssf.jpg" alt="Station Street Fitness"/>
-      </a>
+    <td width="33%" valign="top">
+      <a href="https://stationstreetfit.com.au"><img src="assets/ssf-card.jpg" width="100%" alt="Station Street Fitness"/></a><br>
       <b>Station Street Fitness</b><br>
-      <sub>Client build - custom Next.js site, self-hosted booking, and an AI pipeline that applies the owner's change requests after one human approval</sub>
+      <sub>Client site in Next.js, replacing WordPress</sub>
     </td>
-    <td width="33%">
-      <a href="https://m4cd4r4.github.io/PortPilot/">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/portpilot-agnostic.png" alt="PortPilot"/>
-      </a>
+    <td width="33%" valign="top">
+      <a href="https://m4cd4r4.github.io/PortPilot/"><img src="assets/portpilot-card.png" width="100%" alt="PortPilot"/></a><br>
       <b>PortPilot</b><br>
-      <sub>See every dev server, and who started it - ports and crashes on Windows and Linux, with an MCP server for any AI assistant, a Claude Code plugin and a VS Code extension</sub>
+      <sub>Shows every dev server and who started it</sub>
     </td>
   </tr>
   <tr>
-    <td width="33%">
-      <a href="https://cosmos-collective.com.au">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cosmos-collective.gif" alt="Cosmos Collective"/>
-      </a>
-      <b>Cosmos Collective</b><br>
-      <sub>Real astronomical data, made to explore - a 3D solar system, the Solar Gravitational Lens mission walkthrough, JWST, Kepler exoplanets and live satellites. Next.js, Three.js, data from NASA, ESA, STScI, NOAA and CSIRO</sub>
+    <td width="33%" valign="top">
+      <a href="https://github.com/m4cd4r4/cornerman"><img src="assets/cornerman-card.png" width="100%" alt="Cornerman"/></a><br>
+      <b>Cornerman</b><br>
+      <sub>Carries long Claude Code chats into fresh ones</sub>
     </td>
-    <td width="33%">
-      <a href="https://solaisoft.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/solaisoft.gif" alt="Solaisoft"/>
-      </a>
-      <b>Solaisoft</b><br>
-      <sub>My studio site - websites for Perth businesses, then work on how they show up in Google, Maps and AI answers. One person, start to finish</sub>
-    </td>
-    <td width="33%">
-      <a href="https://github.com/m4cd4r4/questlog">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/questlog.png" alt="Questlog"/>
-      </a>
+    <td width="33%" valign="top">
+      <a href="https://github.com/m4cd4r4/questlog"><img src="assets/questlog-card.png" width="100%" alt="Questlog"/></a><br>
       <b>Questlog</b><br>
-      <sub>Questlog shows the repo, branch, plan and step of every Claude Code session you have open.</sub>
+      <sub>Shows what each Claude Code session is doing</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://cosmos-collective.com.au"><img src="assets/cosmos-card.gif" width="100%" alt="Cosmos Collective"/></a><br>
+      <b>Cosmos Collective</b><br>
+      <sub>Explore real NASA and ESA space data</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://examworthy.com"><img src="assets/examworthy-card.png" width="100%" alt="ExamWorthy"/></a><br>
+      <b>ExamWorthy</b><br>
+      <sub>Certification exam prep across vendors</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://statewiseexams.com"><img src="assets/statewise-card.png" width="100%" alt="Statewise"/></a><br>
+      <b>Statewise</b><br>
+      <sub>US insurance licensing exam prep</sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://solaisoft.com"><img src="assets/solaisoft-card.gif" width="100%" alt="Solaisoft"/></a><br>
+      <b>Solaisoft</b><br>
+      <sub>My web studio for Perth businesses</sub>
     </td>
   </tr>
 </table>
