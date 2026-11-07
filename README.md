@@ -58,77 +58,17 @@ I'm a developer in Perth. I build web apps in TypeScript, React and Node, and I 
 
 ### Featured Projects
 
-<table>
-  <tr>
-    <td width="33%">
-      <a href="https://azureprep.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/azureprep.gif" alt="AzurePrep"/>
-      </a>
-      <b>AzurePrep</b><br>
-      <sub>Microsoft certification practice with paying users - audited question banks, spaced repetition, Stripe, serverless Azure</sub>
-    </td>
-    <td width="33%">
-      <a href="https://github.com/m4cd4r4/cornerman">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cornerman.png" alt="cornerman"/>
-      </a>
-      <b>cornerman</b><br>
-      <sub>When a Claude Code chat gets long, Cornerman saves a handover, clears the chat and carries on by itself, up to the number of clears you set. Tables, lists, links and paths from the cleared chat stay one click away.</sub>
-    </td>
-    <td width="33%">
-      <a href="https://examworthy.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/examworthy-hero-wide.png" alt="ExamWorthy"/>
-      </a>
-      <b>ExamWorthy</b><br>
-      <sub>Certification exam prep across vendors - per-domain readiness scoring, spaced repetition, timed mock exams</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%">
-      <a href="https://statewiseexams.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/statewise.png" alt="Statewise"/>
-      </a>
-      <b>Statewise</b><br>
-      <sub>Exam prep for US insurance licensing - state-specific practice questions, flashcards, study guides and a timed exam simulator, with Stripe checkout</sub>
-    </td>
-    <td width="33%">
-      <a href="https://stationstreetfit.com.au">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/ssf.jpg" alt="Station Street Fitness"/>
-      </a>
-      <b>Station Street Fitness</b><br>
-      <sub>Client build - custom Next.js site, self-hosted booking, and an AI pipeline that applies the owner's change requests after one human approval</sub>
-    </td>
-    <td width="33%">
-      <a href="https://m4cd4r4.github.io/PortPilot/">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/portpilot-agnostic.png" alt="PortPilot"/>
-      </a>
-      <b>PortPilot</b><br>
-      <sub>See every dev server, and who started it - ports and crashes on Windows and Linux, with an MCP server for any AI assistant, a Claude Code plugin and a VS Code extension</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%">
-      <a href="https://cosmos-collective.com.au">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cosmos-collective.gif" alt="Cosmos Collective"/>
-      </a>
-      <b>Cosmos Collective</b><br>
-      <sub>Real astronomical data, made to explore - a 3D solar system, the Solar Gravitational Lens mission walkthrough, JWST, Kepler exoplanets and live satellites. Next.js, Three.js, data from NASA, ESA, STScI, NOAA and CSIRO</sub>
-    </td>
-    <td width="33%">
-      <a href="https://solaisoft.com">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/solaisoft.gif" alt="Solaisoft"/>
-      </a>
-      <b>Solaisoft</b><br>
-      <sub>My studio site - websites for Perth businesses, then work on how they show up in Google, Maps and AI answers. One person, start to finish</sub>
-    </td>
-    <td width="33%">
-      <a href="https://github.com/m4cd4r4/questlog">
-        <img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/questlog.png" alt="Questlog"/>
-      </a>
-      <b>Questlog</b><br>
-      <sub>Questlog shows the repo, branch, plan and step of every Claude Code session you have open.</sub>
-    </td>
-  </tr>
-</table>
+<p>
+<a href="https://azureprep.com"><picture><source media="(max-width: 380px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/azureprep-m-dark.gif 2.24x"><source media="(max-width: 380px)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/azureprep-m-light.gif 2.24x"><source media="(max-width: 800px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/azureprep-m-dark.gif 2x"><source media="(max-width: 800px)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/azureprep-m-light.gif 2x"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/azureprep-d-dark.gif 2x"><source srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/azureprep-d-light.gif 2x"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/azureprep-d-light.gif" alt="AzurePrep: Microsoft exam practice with paying users"></picture></a>
+<a href="https://stationstreetfit.com.au"><picture><source media="(max-width: 380px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/ssf-m-dark.png 2.24x"><source media="(max-width: 380px)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/ssf-m-light.png 2.24x"><source media="(max-width: 800px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/ssf-m-dark.png 2x"><source media="(max-width: 800px)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/ssf-m-light.png 2x"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/ssf-d-dark.png 2x"><source srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/ssf-d-light.png 2x"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/ssf-d-light.png" alt="Station Street Fitness: Client site in Next.js, replacing WordPress"></picture></a>
+<a href="https://m4cd4r4.github.io/PortPilot/"><picture><source media="(max-width: 380px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/portpilot-m-dark.png 2.24x"><source media="(max-width: 380px)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/portpilot-m-light.png 2.24x"><source media="(max-width: 800px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/portpilot-m-dark.png 2x"><source media="(max-width: 800px)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/portpilot-m-light.png 2x"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/portpilot-d-dark.png 2x"><source srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/portpilot-d-light.png 2x"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/portpilot-d-light.png" alt="PortPilot: Shows every dev server and who started it"></picture></a>
+<a href="https://github.com/m4cd4r4/cornerman"><picture><source media="(max-width: 380px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/cornerman-m-dark.png 2.24x"><source media="(max-width: 380px)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/cornerman-m-light.png 2.24x"><source media="(max-width: 800px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/cornerman-m-dark.png 2x"><source media="(max-width: 800px)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/cornerman-m-light.png 2x"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/cornerman-d-dark.png 2x"><source srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/cornerman-d-light.png 2x"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/cornerman-d-light.png" alt="Cornerman: Carries long Claude Code chats into fresh ones"></picture></a>
+<a href="https://github.com/m4cd4r4/questlog"><picture><source media="(max-width: 380px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/questlog-m-dark.png 2.24x"><source media="(max-width: 380px)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/questlog-m-light.png 2.24x"><source media="(max-width: 800px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/questlog-m-dark.png 2x"><source media="(max-width: 800px)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/questlog-m-light.png 2x"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/questlog-d-dark.png 2x"><source srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/questlog-d-light.png 2x"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/questlog-d-light.png" alt="Questlog: Shows what each Claude Code session is doing"></picture></a>
+<a href="https://cosmos-collective.com.au"><picture><source media="(max-width: 380px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/cosmos-m-dark.gif 2.24x"><source media="(max-width: 380px)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/cosmos-m-light.gif 2.24x"><source media="(max-width: 800px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/cosmos-m-dark.gif 2x"><source media="(max-width: 800px)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/cosmos-m-light.gif 2x"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/cosmos-d-dark.gif 2x"><source srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/cosmos-d-light.gif 2x"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/cosmos-d-light.gif" alt="Cosmos Collective: Explore real NASA and ESA space data"></picture></a>
+<a href="https://examworthy.com"><picture><source media="(max-width: 380px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/examworthy-m-dark.png 2.24x"><source media="(max-width: 380px)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/examworthy-m-light.png 2.24x"><source media="(max-width: 800px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/examworthy-m-dark.png 2x"><source media="(max-width: 800px)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/examworthy-m-light.png 2x"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/examworthy-d-dark.png 2x"><source srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/examworthy-d-light.png 2x"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/examworthy-d-light.png" alt="ExamWorthy: Certification exam prep across vendors"></picture></a>
+<a href="https://statewiseexams.com"><picture><source media="(max-width: 380px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/statewise-m-dark.png 2.24x"><source media="(max-width: 380px)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/statewise-m-light.png 2.24x"><source media="(max-width: 800px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/statewise-m-dark.png 2x"><source media="(max-width: 800px)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/statewise-m-light.png 2x"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/statewise-d-dark.png 2x"><source srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/statewise-d-light.png 2x"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/statewise-d-light.png" alt="Statewise: US insurance licensing exam prep"></picture></a>
+<a href="https://solaisoft.com"><picture><source media="(max-width: 380px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/solaisoft-m-dark.gif 2.24x"><source media="(max-width: 380px)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/solaisoft-m-light.gif 2.24x"><source media="(max-width: 800px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/solaisoft-m-dark.gif 2x"><source media="(max-width: 800px)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/solaisoft-m-light.gif 2x"><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/solaisoft-d-dark.gif 2x"><source srcset="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/solaisoft-d-light.gif 2x"><img src="https://raw.githubusercontent.com/m4cd4r4/m4cd4r4/main/assets/cards/solaisoft-d-light.gif" alt="Solaisoft: My web studio for Perth businesses"></picture></a>
+</p>
 
 ---
 
