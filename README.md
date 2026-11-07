@@ -1,7 +1,8 @@
 ## Hi, I'm Macdara
 
-I connect business systems and put AI to work inside them. Perth, Western Australia.
+I'm a developer in Perth. I build web apps in TypeScript, React and Node, and I look after them after they launch.
 
+[![Website](https://img.shields.io/badge/-macdaraomurchu.com-F0B429?style=flat&logo=googlechrome&logoColor=black)](https://macdaraomurchu.com)
 [![Solaisoft](https://img.shields.io/badge/-solaisoft.com-16181c?style=flat&logo=googlechrome&logoColor=white)](https://solaisoft.com)
 [![Email](https://img.shields.io/badge/-hello@solaisoft.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hello@solaisoft.com)
 [![Location](https://img.shields.io/badge/-Perth,%20WA-blue?style=flat&logo=google-maps&logoColor=white)](https://github.com/m4cd4r4)
