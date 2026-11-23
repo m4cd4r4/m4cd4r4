@@ -60,39 +60,39 @@ I'm a developer in Perth. I build web apps in TypeScript, React and Node, and I 
 
 <table>
 <tr>
-<td width="200"><a href="https://azureprep.com"><img src="assets/thumbs/azureprep.png" width="200" alt="AzurePrep screenshot"></a></td>
+<td width="120"><a href="https://azureprep.com"><img src="assets/thumbs/azureprep.png" width="120" alt="AzurePrep screenshot"></a></td>
 <td><a href="https://azureprep.com"><b>AzurePrep</b></a><br>Microsoft exam practice</td>
 </tr>
 <tr>
-<td width="200"><a href="https://stationstreetfit.com.au"><img src="assets/thumbs/ssf.png" width="200" alt="Station Street Fitness screenshot"></a></td>
+<td width="120"><a href="https://stationstreetfit.com.au"><img src="assets/thumbs/ssf.png" width="120" alt="Station Street Fitness screenshot"></a></td>
 <td><a href="https://stationstreetfit.com.au"><b>Station Street Fitness</b></a><br>Client site in Next.js, replacing WordPress</td>
 </tr>
 <tr>
-<td width="200"><a href="https://m4cd4r4.github.io/PortPilot/"><img src="assets/thumbs/portpilot.png" width="200" alt="PortPilot screenshot"></a></td>
+<td width="120"><a href="https://m4cd4r4.github.io/PortPilot/"><img src="assets/thumbs/portpilot.png" width="120" alt="PortPilot screenshot"></a></td>
 <td><a href="https://m4cd4r4.github.io/PortPilot/"><b>PortPilot</b></a><br>Shows every dev server and who started it</td>
 </tr>
 <tr>
-<td width="200"><a href="https://github.com/m4cd4r4/cornerman"><img src="assets/thumbs/cornerman.png" width="200" alt="Cornerman screenshot"></a></td>
+<td width="120"><a href="https://github.com/m4cd4r4/cornerman"><img src="assets/thumbs/cornerman.png" width="120" alt="Cornerman screenshot"></a></td>
 <td><a href="https://github.com/m4cd4r4/cornerman"><b>Cornerman</b></a><br>Carries long Claude Code chats into fresh ones</td>
 </tr>
 <tr>
-<td width="200"><a href="https://github.com/m4cd4r4/questlog"><img src="assets/thumbs/questlog.png" width="200" alt="Questlog screenshot"></a></td>
+<td width="120"><a href="https://github.com/m4cd4r4/questlog"><img src="assets/thumbs/questlog.png" width="120" alt="Questlog screenshot"></a></td>
 <td><a href="https://github.com/m4cd4r4/questlog"><b>Questlog</b></a><br>Shows what each Claude Code session is doing</td>
 </tr>
 <tr>
-<td width="200"><a href="https://cosmos-collective.com.au"><img src="assets/thumbs/cosmos.png" width="200" alt="Cosmos Collective screenshot"></a></td>
+<td width="120"><a href="https://cosmos-collective.com.au"><img src="assets/thumbs/cosmos.png" width="120" alt="Cosmos Collective screenshot"></a></td>
 <td><a href="https://cosmos-collective.com.au"><b>Cosmos Collective</b></a><br>Explore real NASA and ESA space data</td>
 </tr>
 <tr>
-<td width="200"><a href="https://examworthy.com"><img src="assets/thumbs/examworthy.png" width="200" alt="ExamWorthy screenshot"></a></td>
+<td width="120"><a href="https://examworthy.com"><img src="assets/thumbs/examworthy.png" width="120" alt="ExamWorthy screenshot"></a></td>
 <td><a href="https://examworthy.com"><b>ExamWorthy</b></a><br>Certification exam prep across vendors</td>
 </tr>
 <tr>
-<td width="200"><a href="https://statewiseexams.com"><img src="assets/thumbs/statewise.png" width="200" alt="Statewise screenshot"></a></td>
+<td width="120"><a href="https://statewiseexams.com"><img src="assets/thumbs/statewise.png" width="120" alt="Statewise screenshot"></a></td>
 <td><a href="https://statewiseexams.com"><b>Statewise</b></a><br>US insurance licensing exam prep</td>
 </tr>
 <tr>
-<td width="200"><a href="https://solaisoft.com"><img src="assets/thumbs/solaisoft.png" width="200" alt="Solaisoft screenshot"></a></td>
+<td width="120"><a href="https://solaisoft.com"><img src="assets/thumbs/solaisoft.png" width="120" alt="Solaisoft screenshot"></a></td>
 <td><a href="https://solaisoft.com"><b>Solaisoft</b></a><br>My web studio for Perth businesses</td>
 </tr>
 </table>
